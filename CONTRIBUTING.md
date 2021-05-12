@@ -1,10 +1,40 @@
 # Contributing to KubeAcademy
 
+Thanks for your interest in contributing!
+
 ## Mission 
 At KubeAcademy, our mission is to lower the barrier to entry for anyone wanting to learn and adopt Kubernetes by providing free Kubernetes knowledge, directly from experienced practitioners.
 
 ## Community
-KubeAcademy is built with love and passion for the Kubernetes community. To bring you even more great material on your learning journey, we want your contributions. This document describes ways in which you can contribute to KubeAcademy
+KubeAcademy is built with love and passion for the Kubernetes community. To bring even more great material to help students learn, we want to support community contributions. This document provides details about how KubeAcademy content is structured and how community members can contribute.
+
+## Content
+KubeAcademy currently supports educational content presented as courses with multiple lessons presented by instructors in a video format. 
+
+### Types of Content
+
+#### Courses
+Course:
+- A course is comprised of 1 or more Lessons (excluding Intro/Outro Lecture)
+- A course must have an Intro Lecture 
+- A course must have an Summary Lecture
+- Lessons can be:
+    - Standard Video Lecture
+        - Maximum of 10 minutes
+    - Video Demo
+        - Maximum of 10 minutes
+    - Lab (Educates)
+
+#### FAQ
+
+In addition to a standard course, we have a specialized course known as FAQ or Frequently Asked Questions
+FAQs are very similar to standard video lectures but they are standalone and limited to 5 minutes.
+
+### KubeAcademy and KubeAcademy Pro
+
+### Other Content
+
+N/A 
 
 ## Process
 
