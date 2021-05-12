@@ -8,20 +8,29 @@ At KubeAcademy, our mission is to lower the barrier to entry for anyone wanting 
 ## Community
 KubeAcademy is built with love and passion for the Kubernetes community. To bring even more great material to help students learn, we want to support community contributions. This document provides details about how KubeAcademy content is structured and how community members can contribute.
 
+### Slack Channel
+Reach out to us on #KubeAcademy
+
 ## Content
 KubeAcademy currently supports educational content presented as courses with multiple lessons presented by instructors in a video format. 
 
-### Types of Content
+### Types of Courses
+
+### KubeAcademy and KubeAcademy Pro
+
+<< Compare >>
 
 #### Courses
 Course:
-- A course is comprised of 1 or more Lessons (excluding Intro/Outro Lecture)
+- A course is comprised of 1 or more Lessons (excluding Intro/Summary Lecture)
 - A course must have an Intro Lecture 
 - A course must have an Summary Lecture
 - Lessons can be:
     - Standard Video Lecture
         - Maximum of 10 minutes
     - Video Demo
+        - Maximum of 10 minutes
+    - Combination Video Lecture and Demo
         - Maximum of 10 minutes
     - Lab (Educates)
 
@@ -30,11 +39,9 @@ Course:
 In addition to a standard course, we have a specialized course known as FAQ or Frequently Asked Questions
 FAQs are very similar to standard video lectures but they are standalone and limited to 5 minutes.
 
-### KubeAcademy and KubeAcademy Pro
-
 ### Other Content
 
-N/A 
+N/A (Coming Soon)
 
 ## Process
 
@@ -49,7 +56,7 @@ We have identified three different types of requests that will come into the bac
 
 ### Defects
 
-Content, like software will have defects. If you identify anything incorrect in the website, in a course or lecture content, please submit a Github Issue here:
+Content,like software will have defects. If you identify anything incorrect in the website, in a course or lecture content, please submit a Github Issue here:
 
 << Link to Github Issues >>
 
@@ -64,3 +71,11 @@ Beyond defects, when a course becomes out of date or needs more signifiant chang
 In order to start a new course, please make a request using the following template:
 
 << Link to new Course Proposal >>
+
+## Once Course is Approved
+
+### Script
+
+### Presentation
+
+### Review
