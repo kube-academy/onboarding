@@ -19,6 +19,18 @@ We have identified three different types of requests that will come into the bac
 
 ### Defects
 
+Content, like software will have defects. If you identify anything incorrect in the website, in a course or lecture content, please submit a Github Issue here:
+
+<< Link to Github Issues >>
+
 ### Course Update Proposal
 
+Beyond defects, when a course becomes out of date or needs more signifiant change than can be captured in a defect report, please make a request using the following course update propsal:
+
+<< Link to Update Proposal >>
+
 ### New Course Proposal
+
+In order to start a new course, please make a request using the following template:
+
+<< Link to new Course Proposal >>
