@@ -43,8 +43,6 @@ N/A (Coming Soon)
 
 ## Process
 
-![Image] (https://docs.google.com/drawings/d/e/2PACX-1vT7tZsQL_bGQDJynRPDF0_yDiK9bhJ2jlhOv2Sma8bElRaP4thLCF-7Xiw7WR6XLYHZKhf6gY5aesSO/pub?w=597&amp;h=201)
-
 << Insert Process Diagram >>
 
 We manage KubeAcademy content development much like any standard software development process - by building a backlog of tasks that need to be completed, prioritizing each task, and having members of the team (and community) complete the tasks based on match in skillset, time and interest.
