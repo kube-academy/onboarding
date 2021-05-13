@@ -1,5 +1,4 @@
 # Contributing to KubeAcademy
-
 Thanks for your interest in contributing!
 
 ## Mission 
@@ -17,7 +16,6 @@ KubeAcademy currently supports educational content presented as courses with mul
 ### Types of Courses
 
 ### KubeAcademy and KubeAcademy Pro
-
 << Compare >>
 
 #### Courses
@@ -44,6 +42,8 @@ FAQs are very similar to standard video lectures but they are standalone and lim
 N/A (Coming Soon)
 
 ## Process
+
+![Image] (https://docs.google.com/drawings/d/1jrjHqguKE3sAvHMBVUX5tmHFECIxEG8yYsLT6lqCAGY/edit?usp=sharing)
 
 << Insert Process Diagram >>
 
@@ -72,6 +72,8 @@ In order to start a new course, please make a request using the following templa
 
 << Link to new Course Proposal >>
 
+## Request Approval
+
 ## Once Course is Approved
 
 ### Script
@@ -79,3 +81,6 @@ In order to start a new course, please make a request using the following templa
 ### Presentation
 
 ### Review
+
+### Backlog
+Location of backlog
