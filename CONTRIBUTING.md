@@ -43,7 +43,7 @@ N/A (Coming Soon)
 
 ## Process
 
-![Image] (https://docs.google.com/drawings/d/1jrjHqguKE3sAvHMBVUX5tmHFECIxEG8yYsLT6lqCAGY/edit?usp=sharing)
+![Image] (https://docs.google.com/drawings/d/e/2PACX-1vT7tZsQL_bGQDJynRPDF0_yDiK9bhJ2jlhOv2Sma8bElRaP4thLCF-7Xiw7WR6XLYHZKhf6gY5aesSO/pub?w=597&amp;h=201)
 
 << Insert Process Diagram >>
 
