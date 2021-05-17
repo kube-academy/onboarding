@@ -20,13 +20,19 @@ We will manage all requests and approvals through Github Issues.
 - [ ] Not sure
 
 ### Course Description:
-Brief description (2 or 3 sentences max) of that would describe the course
+Brief description (2 or 3 sentences max) of the proposed course
 
 ### Pre-requisites:
-Description of what a learner is expected to know prior to taking the course and any pre-requisites in the existing catalog
+List any pre-requisites from KubeAcademy or KubeAcademy Pro
 
 ### Learning Outcome:
 Description of what the learner is expected to know after taking the course
+
+Example:
+Identify and summarize the important primitives of a Kubernetes architecture
+
+Reference:
+- https://assessment.provost.wisc.edu/student-learning-outcomes/writing-student-learning-outcomes/
 
 ### Outline:
 Please provide an outline that depicts order and title of proposed lessons. If any of the lessons are labs (using educates workshop) please indicate that as well.
