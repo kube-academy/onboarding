@@ -1,5 +1,15 @@
 # Defect Report
 
+## Purpose
+This document provides guidance on how to submit a good defect report - ideally with all the detail requested below.
+
+## How to Use
+In order to use this form, please prepare a Github Issue and provide the information requested in this document by simply copying and pasting the contents below (and add requested information directly).
+
+https://github.com/kube-academy/backlog/issues
+
+We will manage requests and discussion through Github Issues.
+
 ---
 
 ## Defect Template
