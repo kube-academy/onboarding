@@ -4,11 +4,13 @@
 The purpose of this document is to provide a template for proposing a new KubeAcademy or KubeAcademy Pro Course. 
 
 ## Use
-In order to use this form, please prepare a Github Issue and provide the information requested in this document
+In order to use this form, please prepare a Github Issue and provide the information requested in this document by simply copying and pasting the contents below (and add requested information directly).
 
 https://github.com/kube-academy/backlog/issues
 
 We will manage all requests and approvals through Github Issues.
+
+---
 
 ## New Course Proposal Template
 
