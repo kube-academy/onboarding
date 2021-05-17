@@ -62,19 +62,29 @@ We have identified three different types of requests that will come into the bac
 > **_Note:_** We are using Github Issues for managing the document process. While the site content is not in the repository, we are exposing a repository, backlog, for communicating requests and reporting issues.
 
 ### Defects
-Content, like software will have defects. If you identify anything incorrect in the website, in a course or lecture content, please submit a Github Issue here:
+Content, like software will have defects. If you identify anything incorrect in the website, in a course or lecture content, please submit a Github Issue providing the following information:
 
-https://github.com/kube-academy/backlog/issues
+https://github.com/kube-academy/onboarding/blob/main/templates/defect.md
+
+Github Repo:
+[Issue Repo](https://github.com/kube-academy/backlog/issues)
 
 ### Course Update Proposal
 Beyond defects, when a course becomes out of date or needs more signifiant change than can be captured in a defect report, please make a request using the following course update template:
 
 https://github.com/kube-academy/onboarding/blob/main/templates/update-course.md
 
+Github Repo:
+[Issue Repo](https://github.com/kube-academy/backlog/issues)
+
 ### New Course Proposal
 In order to request a new course, please make a request using the following template:
 
 https://github.com/kube-academy/onboarding/blob/main/templates/new-course.md
 
+Github Repo:
+[Issue Repo](https://github.com/kube-academy/backlog/issues)
+
 ### Backlog
-https://github.com/orgs/kube-academy/projects/3
+(In Progress)
+[KubeAcademy Course Backlog](https://github.com/orgs/kube-academy/projects/3)
