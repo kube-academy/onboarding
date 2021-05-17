@@ -14,7 +14,9 @@ At this time we are only able to accept contributions from VMware employees. We 
 On VMware slack, we are on the #KubeAcademy slack channel. Let us know if you are interested in contributing and we can help you get started.
 
 ## Content
-Currently, all KubeAcademy content is in the form of a course.  Each course is comprised of multiple lessons which cover specific topics related to the course.  Our courses are presented in video format delivered by instructures as a lecture or a demo (or both).  We also have recently introduced labs that provide learners with a hands-on environment and is powered by [Educates](https://github.com/eduk8s).
+The content development process in which we are describing in this document refers to the course content being developed.  The KubeAcademy site itself is built on Laravel and the development of the main site and styling is not described here. The focus of this document is on how to generate the artifacts (videos, scripts, etc.) that comprise the final components uploaded to the site for the courses.
+
+Each course is comprised of multiple lessons which cover specific topics related to the course.  Our courses are presented in video format delivered by instructures as a lecture or a demo (or both).  We also have recently introduced labs that provide learners with a hands-on environment and is powered by [Educates](https://github.com/eduk8s).
 
 ### KubeAcademy and KubeAcademy Pro
 We have both short-form courses on KubeAcademy as well as longer-form courses available on KubeAcademy Pro. Both types of courses are completely free, although KubeAcademy Pro does require registration.
@@ -33,7 +35,7 @@ Course:
     - Standard Video Lecture
     - Video Demo
     - Combination Video Lecture and Demo
-    - **Note:** Lessons for KubeAcademy must be under 10 minutes; Lessons for KubeAcademy Pro have no limit.
+    - **Note:** Lessons for KubeAcademy must be under 10 minutes; Lessons for KubeAcademy Pro have no maximum time limit.
 - Labs
     - Developed using [Educates](https://github.com/eduk8s)
 
@@ -61,7 +63,7 @@ We have identified three different types of requests that will come into the bac
 
 Content,like software will have defects. If you identify anything incorrect in the website, in a course or lecture content, please submit a Github Issue here:
 
-<< Link to Github Issues >>
+https://github.com/kube-academy/backlog/issues
 
 ### Course Update Proposal
 
