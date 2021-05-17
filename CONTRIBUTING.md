@@ -8,7 +8,9 @@ At KubeAcademy, our mission is to lower the barrier to entry for anyone wanting 
 KubeAcademy is built with love and passion for the Cloud Native and Kubernetes community. The Cloud Native ecosystem moves fast and covering each area with appropriate depth is challenging! We need community contributions to keep up in this fast moving space, and are looking for experienced practioners to contribute content, help with content review, and sreamline the content contribution process.
 
 ### Eligibility
-At this time we are only able to accept contributions from VMware employees. We do plan to expand elegibility in the future as we streamline our process. 
+At this time we are only able to accept course contributions from VMware employees. We do plan to expand elegibility in the future as we streamline our process. 
+
+If you are not a VMware employee, however, there are ways you can contribute. First, please report any [defects](#Defects) you find.
 
 ### Slack Channel
 On VMware slack, we are on the #KubeAcademy slack channel. Let us know if you are interested in contributing and we can help you get started.
