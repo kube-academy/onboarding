@@ -69,23 +69,14 @@ https://github.com/kube-academy/backlog/issues
 
 Beyond defects, when a course becomes out of date or needs more signifiant change than can be captured in a defect report, please make a request using the following course update propsal:
 
-<< Link to Update Proposal >>
+In order to request an update to a course, please make a request using the following template:
+
+https://github.com/kube-academy/onboarding/blob/main/templates/update-course.md
 
 ### New Course Proposal
-
 In order to start a new course, please make a request using the following template:
 
-<< Link to new Course Proposal >>
-
-## Request Approval
-
-## Once Course is Approved
-
-### Script
-
-### Presentation
-
-### Review
+https://github.com/kube-academy/onboarding/blob/main/templates/new-course.md
 
 ### Backlog
-Location of backlog
+https://github.com/orgs/kube-academy/projects/3
