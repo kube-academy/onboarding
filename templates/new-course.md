@@ -3,20 +3,20 @@
 ## Purpose
 The purpose of this document is to provide a template for proposing a new KubeAcademy or KubeAcademy Pro Course. 
 
-## Use
+## How to Use
 In order to use this form, please prepare a Github Issue and provide the information requested in this document by simply copying and pasting the contents below (and add requested information directly).
 
 https://github.com/kube-academy/backlog/issues
 
-We will manage all requests and approvals through Github Issues.
+We will manage requests and discussion through Github Issues.
 
 ---
 
 ## New Course Proposal Template
+> _**Note:**_ Copy and paste the below into a new Github Issue
 
 ### Course Title
-
-Suggest a course title
+> _**Note:**_ Provide an intial title for the proposed course
 
 ### Target:
 > _**Note:**_ Is this for KubeAcaemy or KubeAcademy Pro?
