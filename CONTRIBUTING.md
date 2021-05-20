@@ -49,6 +49,10 @@ One exception to the above definition of a course is the FAQ "course". The inten
 
 (Coming Soon) In addition to video content, we are planning future releases to include written content in the form of Articles.
 
+### Recording Video Content
+
+See our document on [recording lessons with OBS](recording/obs.md) to get started recording video content.
+
 ## Process
 Deploying anything to a public/produciton environment requires a number of steps that often go undocumented. In the interest of completeness, the following diagram covers many of the major steps. The boxes shaded in blue are intended to reflect activities most content contributors will be actively engaged in.
 
@@ -90,3 +94,4 @@ Github Repo:
 ### Backlog
 (In Progress)
 [KubeAcademy Course Backlog](https://github.com/orgs/kube-academy/projects/3)
+
