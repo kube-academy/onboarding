@@ -1,11 +1,11 @@
 # Contributing to KubeAcademy
 Thanks for your interest in contributing! The purpose of this document to help explain various ways in which you can contribute. We not only need content contributions but help with process improvements and reviewing content and testing labs!
 
-## Mission 
-At KubeAcademy, our mission is to lower the barrier to entry for anyone wanting to learn and adopt Kubernetes by providing free Kubernetes knowledge, directly from experienced practitioners.
+## Kube Academy Mission 
+Our mission at Kube Academy is to lower the barrier for anyone wanting to learn and adopt Kubernetes by providing free Kubernetes knowledge, directly from experienced practitioners.
 
 ## Community
-KubeAcademy is built with love and passion for the Cloud Native and Kubernetes community. The Cloud Native ecosystem moves fast and covering each area with appropriate depth is challenging! We need community contributions to keep up in this fast moving space, and are looking for experienced practioners to contribute content, help with content review, and sreamline the content contribution process.
+KubeAcademy is built with a love and passion for the Cloud Native and Kubernetes communities. The Cloud Native ecosystem moves fast and that covering each area with appropriate depth is challenging. We need community contributions to keep up in this fast moving space. It is why we are seeking experienced practioners to contribute content, review content, and even provide input on how best to streamline the content contribution process.
 
 ### Eligibility
 At this time we are only able to accept course contributions from VMware employees. We do plan to expand elegibility in the future as we streamline our process. 
@@ -15,8 +15,8 @@ If you are not a VMware employee, however, there are ways you can contribute. Fi
 ### Slack Channel
 On VMware slack, we are on the #KubeAcademy slack channel. Let us know if you are interested in contributing and we can help you get started.
 
-## Content
-The content development process in which we are describing in this document refers to the course content being developed.  The KubeAcademy site itself is built on Laravel and the development of the main site and styling is not described here. The focus of this document is on how to generate the artifacts (videos, scripts, etc.) that comprise the final components uploaded to the site for the courses.
+## Content Creation Process
+This document describes the content creation process for Kube Academy courses. This includes setup instructions on how to record a video, and steps on how to write a script.
 
 Each course is comprised of multiple lessons which cover specific topics related to the course.  Our courses are presented in video format delivered by instructures as a lecture or a demo (or both).  We also have recently introduced labs that provide learners with a hands-on environment and is powered by [Educates](https://github.com/eduk8s).
 
@@ -28,8 +28,11 @@ The primary distinction between KubeAcademy and KubeAcademy Pro is the time comm
 When someone submits a course for development, we will identify whether the course is better suited for one format or the other.
 
 #### Courses
+
+When creating a course, 
 Course:
-- A course is comprised of 1 or more Lessons (excluding Intro/Summary Lecture)
+- An introduction that summarizes the lecture.
+- A course is comprised of one or more lessons
 - A couse may optionally include a Lab
 - A course must have an Intro Lecture 
 - A course must have an Summary Lecture

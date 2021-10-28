@@ -1,30 +1,43 @@
-# Open Broadcaster Software
+# Open Broadcaster Software Studio
+
+Open Broadcaster Software Studio is a free and open source software that you can use to record lessons for KubeAcademy.  
+provides convenient methods to define "Scenes" that include various input devices such as your microphone, a camera or your screen.
 
 This document will help you get up and running with [Open Broadcaster Software (OBS)](https://obsproject.com/).
 
-OBS is free and open source software that can be used to record KubeAcademy lessons.  It provides convenient methods to defind "Scenes" that include various input devices such as your microphone, a camera or your screen.
+## Download and Install OBS
 
-## Install
+Once you download OBS Studio, OBS is available for Linux, Mac, and Windows operating systems. To download OBS Studio:
 
-The [download page](https://obsproject.com/download) provides download options for the installer.  It is available for Windows, Mac and Linux.
+1. Go to the [Download OBS Studio](https://obsproject.com/download) page. and select **Download Installer**. 
+2. Select the OBS installer at the bottom, left corner of the page.
+   The Auto-Configuration Wizard opens.
+3. Follow the Auto-Configuration Wizard steps to install OBS Studio. 
+4. Set up your audio devices.
+5. Add your video sources.
+
+
+You can install OBS Studiohttps://obsproject.com/wiki/OBS-Studio-Quickstart
+
+
 
 ## Configuration
 
+1. Verify that OBS is installed 
+2.
 With OBS installed, download `obs-kubeacademy-scenes.json` scene collection config file.
 
 Then, in OBS import that scene collection config.
 
 ![import scene collection](images/import-scene-collection.png)
 
-Now, you should see 3 items in the Scenes pane.
+Three items appear in the Scenes pane, under Sources.
 
 ![scenes](images/scenes.png)
 
-The "ScreenCap" scene allows you to capture your screen and mic at the same time.
-
-The "Camera" scene allows you to capture your webcam and mic.
-
-The "PinP" captures all three.  It captures your screen as the primary with your camera picture-in-picture.
+- The **ScreenCap** scene allows you to capture your screen and mic at the same time.
+- The **Camera** scene allows you to capture your webcam and mic.
+- The **PinP** captures all three.  It captures your screen as the primary with your camera picture-in-picture.
 
 You should see three devices under "Sources."
 
