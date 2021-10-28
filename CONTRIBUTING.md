@@ -1,48 +1,47 @@
-# Contributing to KubeAcademy
-Thanks for your interest in contributing! The purpose of this document to help explain various ways in which you can contribute. We not only need content contributions but help with process improvements and reviewing content and testing labs!
+# How to Contribute Content to KubeAcademy from VMware
+Thank you for your interest in wanting to contribute content to KubeAcademy from VMware. KubeAcademy provides free Kubernetes training for beginner, intermediate, and advanced skillset levels. We invite you to check out our [backlog of course topics](https://github.com/orgs/kube-academy/projects/3) for contribution ideas. We also welcome ideas for developing new courses. To submit your proposal for a new course, go [here](https://github.com/kube-academy/onboarding/blob/main/templates/new-course.md).
 
-## Kube Academy Mission 
-Our mission at Kube Academy is to lower the barrier for anyone wanting to learn and adopt Kubernetes by providing free Kubernetes knowledge, directly from experienced practitioners.
+## About the KubeAcademy Contributor's Guide
 
-## Community
-KubeAcademy is built with a love and passion for the Cloud Native and Kubernetes communities. The Cloud Native ecosystem moves fast and that covering each area with appropriate depth is challenging. We need community contributions to keep up in this fast moving space. It is why we are seeking experienced practioners to contribute content, review content, and even provide input on how best to streamline the content contribution process.
+The KubeAcademy Contributor's Guide is specifically for those developing content for KubeAcademy. It includes instructions on how to:
+- Create a course, lesson, or lab.
+- Write a script to read as you record the course, lesson or lab.
+- Download and install Open Broadcaster Software (OBS) to record your video.
 
-### Eligibility
-At this time we are only able to accept course contributions from VMware employees. We do plan to expand elegibility in the future as we streamline our process. 
+## Can Anyone Contribute to KubeAcademy?
+KubeAcademy is currently only able to accept course contributions from VMware employees. The good news is plans are underway to change the submission process so that any member of the Cloud Native or Kubernetes communities may contribute to KubeAcademy. In the meantime, you can help by reporting any [defects](#Defects) you encounter on KubeAcademy.
 
-If you are not a VMware employee, however, there are ways you can contribute. First, please report any [defects](#Defects) you find.
+KubeAcademy is built with a love and passion for the Cloud Native and Kubernetes communities. The Cloud Native ecosystem moves fast. Covering each area with appropriate depth is challenging. This is why we need community contributions to keep up in this fast moving space. It is why we are seeking experienced practioners to contribute content, review content, and even provide feedback on how best to streamline the content contribution process.
 
-### Slack Channel
-On VMware slack, we are on the #KubeAcademy slack channel. Let us know if you are interested in contributing and we can help you get started.
+### Is KubeAcademy on Slack?
+Yes. You can reach at any time through the #KubeAcademy Slack channel on VMware Slack. This is where you can let us know of your interest to contribute to KubeAcademy. 
 
 ## Content Creation Process
-This document describes the content creation process for Kube Academy courses. This includes setup instructions on how to record a video, and steps on how to write a script.
+This document describes the content creation process for KubeAcademy courses, lessons and labs. This includes setup instructions on how to record a video, and steps on how to write a script.
+
+### Courses
 
 Each course is comprised of multiple lessons which cover specific topics related to the course.  Our courses are presented in video format delivered by instructures as a lecture or a demo (or both).  We also have recently introduced labs that provide learners with a hands-on environment and is powered by [Educates](https://github.com/eduk8s).
 
-### KubeAcademy and KubeAcademy Pro
-We have both short-form courses on KubeAcademy as well as longer-form courses available on KubeAcademy Pro. Both types of courses are completely free, although KubeAcademy Pro does require registration.
-
-The primary distinction between KubeAcademy and KubeAcademy Pro is the time commitment required of the learner and the depth of coverage of each topic in the course. KubeAcademy Pro courses cover topics in more depth and have an overall longer duration for the course as well as longer lesson runtimes. 
-
-When someone submits a course for development, we will identify whether the course is better suited for one format or the other.
-
-#### Courses
-
-When creating a course, 
-Course:
+When creating a course, ensure it includes all the following:
 - An introduction that summarizes the lecture.
-- A course is comprised of one or more lessons
+- The course is comprised of one or more lessons
 - A couse may optionally include a Lab
 - A course must have an Intro Lecture 
-- A course must have an Summary Lecture
+
+### Lessons
+
+Lessons for KubeAcademy must be under 10 minutes; Lessons for KubeAcademy Pro have no maximum time limit.
+
 - Lessons can be:
     - Standard Video Lecture
     - Video Demo
     - Combination Video Lecture and Demo
-    - **Note:** Lessons for KubeAcademy must be under 10 minutes; Lessons for KubeAcademy Pro have no maximum time limit.
-- Labs
-    - Developed using [Educates](https://github.com/eduk8s)
+      **Note:** 
+
+### Labs
+
+Labs are developed using [Educates](https://github.com/eduk8s).
 
 #### Exception: FAQ Course
 
@@ -70,10 +69,6 @@ We have identified three different types of requests that will come into the bac
 
 > **_Note:_** We are using Github Issues for managing the document process. While the site content is not in the repository, we are exposing a repository, backlog, for communicating requests and reporting issues.
 
-### Defects
-Content, like software will have defects. If you identify anything incorrect in the website, in a course or lecture content, please submit a Github Issue providing the following information:
-
-https://github.com/kube-academy/onboarding/blob/main/templates/defect.md
 
 Github Repo:
 [Issue Repo](https://github.com/kube-academy/backlog/issues)
@@ -86,15 +81,6 @@ https://github.com/kube-academy/onboarding/blob/main/templates/update-course.md
 Github Repo:
 [Issue Repo](https://github.com/kube-academy/backlog/issues)
 
-### New Course Proposal
-In order to request a new course, please make a request using the following template:
-
-https://github.com/kube-academy/onboarding/blob/main/templates/new-course.md
-
 Github Repo:
 [Issue Repo](https://github.com/kube-academy/backlog/issues)
-
-### Backlog
-(In Progress)
-[KubeAcademy Course Backlog](https://github.com/orgs/kube-academy/projects/3)
 
