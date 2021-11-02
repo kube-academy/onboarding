@@ -29,9 +29,9 @@ KubeAcademy provides content in the following formats.
 
 When creating a course, ensure it includes all the following:
 - An introduction that summarizes the lecture.
-- The course is comprised of one or more lessons
-- A couse may optionally include a Lab
-- A course must have an Intro Lecture 
+- The course is comprised of one or more lessons.
+- A couse may optionally include a Lab.
+- A course must have an Intro Lecture. 
 
 
     Note: The FAQ "course" represents mini-lessons that do not depend upon other material. It supports both an easy entry point for learners and a way for contributors to get started with the video production format of creating courses
