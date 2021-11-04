@@ -7,45 +7,70 @@ The KubeAcademy from VMware Contributor's Guide is specifically for those develo
 - Submit a Defect Report if you find a defect in a course, course description on lab.
 - Submit an Update Course Request if you encounter an inaccurate or out of date course.
 
-KubeAcademy is built with a love and passion for the Cloud Native and Kubernetes communities. The Cloud Native ecosystem moves fast. Covering each area with appropriate depth is challenging. This is why we need community contributions to keep up in this fast moving space. It is why we are seeking experienced practioners to contribute content, review content, and even share your ideas on ways we can better streamline our content contribution process.
+## Can Anyone Contribute to KubeAcademy?
+At the present, KubeAcademy is only able to accept course contributions from VMware employees because of the way our submission process works. We are currently updating the submission process so that any member of the Cloud Native or Kubernetes communities may contribute to KubeAcademy. 
+
+KubeAcademy is built with a love and passion for the Cloud Native and Kubernetes communities. The changes in development in this technology area is rapid. Covering each area with appropriate depth is challenging. This is why we need community contributions to keep up in this fast moving space. It is why we are seeking experienced practioners to contribute content, review content, and even share your ideas on ways we can better streamline our content contribution process.
 
 ## How to Contribute Content to KubeAcademy
-Thank you for your interest in wanting to contribute content to KubeAcademy from VMware. KubeAcademy provides free Kubernetes training for beginner, intermediate, and advanced skillset levels. We invite you to check out our [GitHub Repository Backlog](https://github.com/orgs/kube-academy/projects/3) for contribution ideas. 
+Thank you for your interest in wanting to contribute content to KubeAcademy from VMware. KubeAcademy provides free Kubernetes training for beginner, intermediate, and advanced skillset levels. We welcome ideas for developing new courses. To submit your idea for a new course, go [here](https://github.com/kube-academy/onboarding/blob/main/templates/new-course.md). We also invite you to check out our [GitHub Repository Backlog](https://github.com/orgs/kube-academy/projects/3) for contribution ideas. 
 
-We also welcome ideas for developing new courses. To submit your idea for a new course, go [here](https://github.com/kube-academy/onboarding/blob/main/templates/new-course.md).
-
-### KubeAcademy Slack Channel
+### Contact KubeAcademy through VMware Slack 
 
 There is a #KubeAcademy Slack channel on VMware Slack. This is a good place to let us know of your interest in contributing to KubeAcademy. 
 
-## Can Anyone Contribute to KubeAcademy?
+## KubeAcademy Content Types
 
-At the present, KubeAcademy is only able to accept course contributions from VMware employees because of the way our submission process works. We are currently updating the submission process so that any member of the Cloud Native or Kubernetes communities may contribute to KubeAcademy. 
+Most of the content created for KubeAcademy is in a video format. This includes content for courses, demos and lectures. 
 
-## Content Types
-
-KubeAcademy provides content in the following formats. 
-- **Courses**. Each course is comprised of multiple lessons which cover specific topics related to the course.  Our courses are presented in video format delivered by instructures as a lecture or a demo (or both).  We also have recently introduced labs that provide learners with a hands-on environment and is powered by [Educates](https://github.com/eduk8s). This includes setup instructions on how to record a video, and steps on how to write a script.
-
-When creating a course, ensure it includes all the following:
-- An introduction that summarizes the lecture.
-- The course is comprised of one or more lessons.
-- A couse may optionally include a Lab.
-- A course must have an Intro Lecture. 
-
+- **Course**. A series of lessons that cover a specific topic of study. At KubeAcademy, all courses are created in a video format. Course content must include:
+  - An introduction about the course, demo, or lecture.
+  - One or more lessons.
+  - A lab (optional).
+- **Lesson**. A lecture, demo, or combination of both that are part of a course. A lesson created for KubeAcademy must be 10 minutes, or less. A lesson created for KubeAcademy Pro does not have a time limit. There are a couple of types of lessons: These include:
+   - A video lecture. 
+   - A video demo.
+   - A combination of a video lecture and a video demo. 
+- **Lab**. A hands-on environment where learners can practice how to use Kubernetes. The labs are powered by [Educates](https://github.com/eduk8s). Educates is a Kubernetes Operator that controls the KubeAcademy training environment. 
+- **Articles**. (Future content releases include) A piece of written work that guides readers to a course. Future content releases are going to include written Articles.
 
     Note: The FAQ "course" represents mini-lessons that do not depend upon other material. It supports both an easy entry point for learners and a way for contributors to get started with the video production format of creating courses
-- **Lessons**. Lessons for KubeAcademy must be under 10 minutes; Lessons for KubeAcademy Pro have no maximum time limit. Lessons can be:
-   - Standard Video Lecture
-   - Video Demo
-   - Combination Video Lecture and Demo 
-- **Labs**. Each lab is developed using [Educates](https://github.com/eduk8s). 
-- **Articles** (Coming Soon) Future content releases are going to include written Articles.
+
+## How to Create Video Content
+
+To start creating video content for KubeAcademy, go to [Open Broadcaster Software (OBS)](https://obsproject.com/) and download the latest release of this free and open source software for video recording to your operating environment. OBS Studio provides downloads for Linux, Mac, and Windows.
+
+A template is available, A bio is needed...
+
+### Download and Install OBS
+
+The course developers at KubeAcademy use Open Broadcaster Software Studio (OBS) to record videos. OBS provides convenient methods for defining scenes that include various input devices such as a microphone, camera or screen. OBS is a free and open source software that is available for Linux, Mac, and Windows operating systems. 
+
+Read the [OBS Studio Quickstart](https://obsproject.com/wiki/OBS-Studio-Quickstart) for information on how to change default settings for audio devices and video sources. 
+
+To download OBS Studio:
+
+1. Go to [Open Broadcaster Software (OBS))](https://obsproject.com/).
+2. Select the operating environment to install OBS. There are three choices: Windows, macOS 10.13+, and Linux.
+   The OBS installer appears in the bottom, left corner of the page.
+3. Select the OBS installer.
+   The Auto-Configuration Wizard opens.
+4. Run the auto-configuration wizard.
+   The wizard automatically tests your system to define default settings for options such as recording, resolution, and, bitrate. You can manually change these settings later. 
+5. Set up your audio devices by doing one or both of the following:
+   - **For macOS users only**. Download and install [iShowU Audio Capture](https://obsproject.com/forum/resources/os-x-capture-audio-with-ishowu-audio-capture.505/) audio driver extension to capture audio before continuing onto the next step.
+   - Verify that the default audio device and microphone are working properly. To do this, open the OBS Studio window and look at the volume meters in the mixer section. If there is a problem with audio or if you want to change the devices in use, go **Settings** > **Audio**.
+6. [Add scenes and sources](https://obsproject.com/wiki/OBS-Studio-Overview#scenes-and-sources) for your video. This includes webcams and any other devices or media that you want in the output. 
+7. Test the record settings as follows:
+   - Go **Settings** > **Output**. 
+   - Select **Start Recording** 
+   - Run the test for a few minutes to make sure that there are no issues. If you encounter an issue, go to [OBS Help](https://obsproject.com/help).
 
 
-### Recording Video Content
 
-See our document on [recording lessons with OBS](recording/obs.md) to get started recording video content.
+ in the following formats. 
+-
+
 
 ## Deploy Content
 Deploying content to a public, production environment requires a number of steps. The following diagram covers many of the major steps. The blue boxes reflect activities most content contributors are actively engaged in doing.
