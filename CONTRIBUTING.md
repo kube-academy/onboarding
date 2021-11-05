@@ -15,7 +15,7 @@ KubeAcademy is built with a love and passion for the Cloud Native and Kubernetes
 ## Can Anyone Contribute to KubeAcademy?
 At the present, KubeAcademy is only able to accept course contributions from VMware employees because of the way our submission process works. We are currently updating the submission process so that any member of the Cloud Native or Kubernetes communities may contribute to KubeAcademy. 
 
-## How to Contact KubeAcademy 
+## Contact KubeAcademy 
 
 There are a couple of ways to contact KubeAcademy with questions and concerns about a course. 
 
@@ -65,10 +65,23 @@ To download and install OBS Studio:
    - **For macOS users only**. Download and install [iShowU Audio Capture](https://obsproject.com/forum/resources/os-x-capture-audio-with-ishowu-audio-capture.505/) audio driver extension to capture audio before continuing onto the next step.
    - Verify that the default audio device and microphone are working properly. To do this, open the OBS Studio window and look at the volume meters in the mixer section. If there is a problem with audio or if you want to change the devices in use, go **Settings** > **Audio**.
 6. [Add scenes and sources](https://obsproject.com/wiki/OBS-Studio-Overview#scenes-and-sources) for your video. This includes webcams and any other devices or media that you want in the output. 
-7. Test the record settings as follows:
-   - Go **Settings** > **Output**. 
-   - Select **Start Recording** 
-   - Run the test for a few minutes to make sure that there are no issues. If you encounter an issue, go to [OBS Help](https://obsproject.com/help).
+
+## Test Recording
+
+It is a good idea to test record the three scenes before you do an actual course recording. Make sure to run the test for a few minutes to ensure that there are no issues. If you encounter one, go to [OBS Help](https://obsproject.com/help).
+
+To test record:
+
+1. Go **Settings** > **Output**. 
+2. In the **Controls** pane, select **Start Recording**.
+
+   ![controls](images/controls.png)
+
+3. Do all of the following:
+
+   a. Perform a test for the three scenes.
+   b. Say a few words to test the mic pick up.  
+   c. In the **Controls** pane, select **Stop Recording**.
 
 ### Configure OBS
 
@@ -105,20 +118,6 @@ Once OBS is installed, do the following:
 
    ![video settings](images/video-settings.png)
 
-## Test Recording
-
-It is a best practice to test record. Here's how:
-
-1, In the "Controls" pane, click "Start Recording."
-
-   ![controls](images/controls.png)
-
-2. Do all the following:
-
-   a. Test each of the three scenes.
-   b. Say a few words to test the mic pick up.  
-   c. Click "Stop Recording."
-
 If you make a mistake when recording an actual lesson, here's what to do:
   - Go back to the last transition point. For example, if you made a mistake at the point where you switched slides in a deck, go back and resume recording from there.  
   - Cut the mistake out of the recording later.
@@ -149,6 +148,28 @@ To report a content issue:
 2. Do one of the following:
    - [Submit a Defect Report](https://github.com/kube-academy/onboarding/blob/main/templates/defect.md). Use this template to provide details about the issue. If possible, include steps to reproduce the issue.
    - [Submit an Update Course Request](https://github.com/kube-academy/onboarding/blob/main/templates/update-course.md). Use this template to provide details about a course that requires a major change such as a module addition, or is out of date and either needs to be updated or archived.
+
+## Preparing to Record a Video Course
+
+background
+appearance
+cube size
+video size
+
+## Scripts
+
+Write a Script
+Do not write a script
+Script Editing
+
+## Course Presentation
+
+Tips for looking at the camera. Sit, or stand?
+Tips for remembering content.
+Tips for using a script.
+Tips for not using a script.
+Video Editing
+Script editing
 
 
 
