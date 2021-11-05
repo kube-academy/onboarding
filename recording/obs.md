@@ -23,27 +23,28 @@ You can install OBS Studiohttps://obsproject.com/wiki/OBS-Studio-Quickstart
 
 ## Configuration
 
-1. Verify that OBS is installed 
-2.
-With OBS installed, download `obs-kubeacademy-scenes.json` scene collection config file.
+1. Verify that OBS is installed.
 
-Then, in OBS import that scene collection config.
+2. Download the following scene collection config file.
+   `obs-kubeacademy-scenes.json`.
 
-![import scene collection](images/import-scene-collection.png)
+3. From OBS, import the scene collection config.
 
-Three items appear in the Scenes pane, under Sources.
+   ![import scene collection](images/import-scene-collection.png)
 
-![scenes](images/scenes.png)
+   Three items appear in the Scenes pane, under Sources.
 
-- The **ScreenCap** scene allows you to capture your screen and mic at the same time.
-- The **Camera** scene allows you to capture your webcam and mic.
-- The **PinP** captures all three.  It captures your screen as the primary with your camera picture-in-picture.
+   ![scenes](images/scenes.png)
 
-You should see three devices under "Sources."
+   - The **ScreenCap** scene allows you to capture your screen and mic at the same time.
+   - The **Camera** scene allows you to capture your webcam and mic.
+   - The **PinP** captures all three.  It captures your screen as the primary with your camera picture-in-picture.
 
-![sources](images/sources.png)
+   Three devices appear under "Sources." You need to configure these devices to connect to your computer. The reason is that the imported scene collection file was exported from another computer with different devices attached.  
 
-These three devices will need to be configured to use the devices connected to your computer.  The scene collection file you imported was exported from another computer with different devices attached.  For each device, simply select it, then click the cogwheel icon at the bottom of the pane and set them to use the appropriate device for your setup.
+   ![sources](images/sources.png)
+
+4. Select each device. Click the cogwheel icon at the bottom of the pane. Set them to use the appropriate device for your setup.
 
 Lastly, open the preferences for OBS.
 
