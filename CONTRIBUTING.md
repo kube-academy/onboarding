@@ -110,7 +110,6 @@ When writing a script, consider the following terminology do's and do not's.
 - Do not use terminology that is jargon and slang.
 - Do not use charged terminology. This includes words with shock value that demean, hurt, imply negative judgment.
 - Do not objectify persons. For example, do not use **male** to signify a plug. Do not use female to signify a socket.
-- Use gender-neutral terminology, unless it is relevant to the content. 
 
 ### Submit Your Script
 
@@ -142,6 +141,7 @@ To download and install OBS Studio:
 4. Run the auto-configuration wizard.
    
    The wizard automatically tests your system to define default settings for options such as recording, resolution, and, bitrate. You can manually change these settings later. 
+
 5. Set up your audio devices by doing one or both of the following:
    
    - **For macOS users only**. Download and install [iShowU Audio Capture](https://obsproject.com/forum/resources/os-x-capture-audio-with-ishowu-audio-capture.505/) audio driver extension to capture audio before continuing onto the next step.
@@ -166,21 +166,21 @@ To configure OBS:
    - **Camera**. Lets you capture your webcam and mic.
    - **PinP**. Lets you capture all three scenes. It captures your screen as the primary with your camera picture-in-picture.
 
-     ![scenes](images/scenes.png)
+     ![scenes](recording/images/scenes.png)
    
 3. Configure each source so that it connects to your computer. This configuration is necessary because the original scene collection file that was exported came from another computer with different sources.
 
-   ![sources](images/sources.png)
+   ![sources](recording/images/sources.png)
 
 4. Select the three devices. Click the cogwheel icon at the bottom of the pane. 
 
 5. Open the preferences for OBS.
 
-   ![preferences](images/preferences.png)
+   ![preferences](recording/images/preferences.png)
 
 6. Select **Video** from the panel on the left. Set the Base and Output resolution to 1920x1080.
 
-   ![video settings](images/video-settings.png)
+   ![video settings](recording/images/video-settings.png)
 
 If you make a mistake when recording an actual lesson, here's what to do:
   - Go back to the last transition point. For example, if you made a mistake at the point where you switched slides in a deck, go back and resume recording from there.  
@@ -195,7 +195,7 @@ To test record:
 1. Go **Settings** > **Output**. 
 2. In the **Controls** pane, select **Start Recording**.
 
-   ![controls](images/controls.png)
+   ![controls](recording/images/controls.png)
 
 3. Do all of the following:
 
