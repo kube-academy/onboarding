@@ -4,6 +4,87 @@ The KubeAcademy from VMware Contributor's Guide is written exclusively for instr
 
 With Kubernetes constantly evolving in ability, power and speed, so does the need to create timely, relevant course content with appropriate depth. It's one reason why KubeAcademy is always looking for Kubernetes experts in the Cloud Native and Kubernetes communities who are interested in creating and reviewing course content. 
 
+## Course Submission Process
+
+KubeAcademy uses a GitHub repository to manage its course backlog. This backlog is open to the public, but as read-only. If you have an idea about a course that you would like to develop for KubeAcademy, you must [create a new issue in the KubeAcademy backlog](https://githueateb.com/kube-academy/backlog/issues). In order to do this, a member of KubeAcademy has to create a GitHub account that gives you write access.
+
+You also must complete the [KubeAcademy New Course Proposal] (https://github.com/kube-academy/onboarding/blob/main/templates/new-course.md) as part of the course submission process. Use this form to provide specific details about the course, such as the title, description, prerequisites, learning outcomes and outline. When creating the course outline, be sure to include the sequential order of each lesson and workshop that you plan to teach in your course. 
+
+To submit a course idea to KubeAcademy, do the following:
+
+1. Contact the KubeAcademy Team on #KubeAcademy slack to express your interest in creating a course. 
+
+   A member of the KubeAcademy creates a GitHub account for you that has write access so that you can [create a new issue in the KubeAcademy backlog](https://githueateb.com/kube-academy/backlog/issues) for the course.
+
+2. Complete the [KubeAcademy New Course Proposal] (https://github.com/kube-academy/onboarding/blob/main/templates/new-course.md).
+3. Do both of the following:
+
+   - [Create a new issue in Github](https://github.com/kube-academy/backlog/issues). 
+   - Copy the information from the KubeAcademy New Course Proposal and paste it into the new issue.
+
+4. Wait for approval from the KubeAcademy before you begin to do work on your course. 
+
+   Once your course is approved, see the section, "Onboarding Setup".
+
+## Onboarding Setup
+
+We also invite you to check out our [GitHub Repository Backlog](https://github.com/orgs/kube-academy/projects/3) for contribution ideas. 
+
+
+Onboarding Setup (Approved)
+Get all Gear
+Camera (Minimum: 1080p Webcam or Camera e.g. Logitech c920s)
+Microphone (Use Webcam or External Mic such as xxxxx?)
+Background Screen (White or Black or Green Screen)
+(Optional) Recommended Lighting Gear
+One Light setup
+Key Light
+Two Light setup
+Key Light
+Fill Light
+Three Light Setup
+Key
+Fill
+Rear
+Get Software for Recording
+OBS
+Follow installation instructions on OBS Site
+Download Configuration we provide
+Download Powerpoint Template
+Link to public Google Drive Folder?
+Record sample video (Hello World)
+Create a new video with sound and Hello World Slide
+KA: We create a folder in kube-academy/backlog/courses/<course-name> and populate with template files...
+Course Creation
+KA Team To Dos
+Invite to KA bi-weekly
+Access to KA Drive (VMware Employees)
+Outline
+Outline.md
+Script & Slides
+Script.md
+Slides PPT (up to 10MB)?
+If too large, share via Google Drive or other appropriate sharing
+Note: We can move to KA Google Drive at VMware…
+Video Recording
+MP4 File
+Course Metadata (for publishing to site)
+Contributor Bio
+Course Name
+Course Description
+Lesson Description
+
+To Do:
+Check base level permissions for repository for contribution requests/etc.
+https://github.com/kube-academy/backlog
+Use backlog for all issues related to roadmap	
+Create Github Templates
+Bug Report 
+Recording Setup Template
+New Course Proposal
+Update Course Proposal
+
+
 This guide includes instructions on how to:
 
 - [Submit an idea for a course, lesson, or workshop.](https://github.com/kube-academy/onboarding/blob/main/templates/new-course.md)
@@ -15,8 +96,6 @@ This guide includes instructions on how to:
 ## Can Anyone Contribute to KubeAcademy?
 
 At the present, KubeAcademy is only able to accept course contributions from VMware employees because of the way our submission process works. We are currently updating the submission process so that any member of the Cloud Native or Kubernetes communities may contribute to KubeAcademy. 
-
-To submit an idea for a new course, go [here](https://github.com/kube-academy/onboarding/blob/main/templates/new-course.md). We also invite you to check out our [GitHub Repository Backlog](https://github.com/orgs/kube-academy/projects/3) for contribution ideas. 
 
 ### Report Content Issues
 
@@ -77,19 +156,19 @@ Most of the content created for KubeAcademy is in a video format. This includes 
 
 ## Scriptwriting Guidelines
 
-Write your script using a plain language that your audience can understand. When introducing terminology for the first time, make sure to provide a brief definition or explanation. For specialized terminology and brand names, always introduce the full term on the first reference along with its corresponding acronym, if you plan to continue referencing it.
+Write your script in a pleasant, conversational tone that encourages your audience to want to keep learning Kubernetes. Use active-voice verbs whenever possible, and stay away from passive-voice verbs as much as possible. Use a plain language that your audience can understand. When introducing a term for the first time, make sure to provide a brief definition or explanation. For specialized terminology and brand names, always introduce the full term on the first reference along with its corresponding acronym, if you plan to continue referencing it.
 
 When writing your script, refer to the [VMware Marketing Editorial Style Guide](https://www.vmware.com/content/dam/brand/photography-only/guidelines/writing-and-naming/editorial-style-guide/marketing-editorial-style-guide.pdf) for specific instructions on branding, voice and tone, and inclusive terminology.        
 
 ### Start with a Video Brief
 
-One way to start writing a video script is to first write a video brief. A video brief helps you organize your course objectives. It also causes you to think more about the needs of your audience as you plan content for your course. Understanding the needs of your audience is key to writing a video script that is compelling, relevant and succinct.
+One way to start writing a video script is to first a video outline. A video outline helps you organize your course objectives. It also causes you to think more about the needs of your audience as you plan content for your course. Understanding the needs of your audience is key to writing a video script that is compelling, relevant and succinct.
 
 ### Use a Conversational Voice and Tone in Your Script Writing
 
-How we sound is as important as what we say. Write your script in a pleasant, conversational tone that encourages your audience to want to keep learning Kubernetes. Use active-voice verbs whenever possible, and avoid passive-voice verbs unless readers can easily recognize that the subject of the verb is irrelevant.
+Voice and tone are important elements of the VMware brand. How we sound is as important as what we say. 
 
-Voice and tone are important elements of the VMware brand. Consider the following guiding principles when creating course content:
+Consider the following guiding principles when creating course content:
 
 - Know your audience. Demonstrate that you undertand your learner's challenges and they will trust your solutions.
 - Match the level of detail to the audience's level of understanding. Deeper connections allow for deeper conversations.
@@ -151,7 +230,7 @@ To download and install OBS Studio:
 
 ### Configure OBS to Create a Video
 
-To configure OBS:
+To configure OBS: desk perpindicutlar to the window.
 
 1. Go to ? and download the following scene collection config file.
    `obs-kubeacademy-scenes.json`.
