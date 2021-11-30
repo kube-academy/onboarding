@@ -4,6 +4,17 @@ The KubeAcademy from VMware Contributor's Guide is written exclusively for instr
 
 With Kubernetes constantly evolving in ability, power and speed, so does the need to create timely, relevant course content with appropriate depth. It's one reason why KubeAcademy is always looking for Kubernetes experts in the Cloud Native and Kubernetes communities who are interested in creating and reviewing course content. 
 
+This guide includes instructions on how to:
+
+- [Submit an idea for a course, lesson, or workshop.](https://github.com/kube-academy/onboarding/blob/main/templates/new-course.md)
+- Write a script using the [VMware Brand Guidelines](https://www.vmware.com/brand/portal/guidelines.html) and the [VMware Marketing Editorial Guide](https://www.vmware.com/content/dam/brand/photography-only/guidelines/writing-and-naming/editorial-style-guide/marketing-editorial-style-guide.pdf).
+- Submit a course outline for approval.
+- Use the [KubeAcademy Course Template](https://docs.google.com/presentation/d/1Xq2wg6Q8TAucZ7qGy7dAjMpEBVuvqDPt/edit#slide=id.p3) to create a video of your approved script. 
+
+## Can Anyone Contribute to KubeAcademy?
+
+At the present, KubeAcademy is only able to accept course contributions from VMware employees because of the way our submission process works. We are currently updating the submission process so that any member of the Cloud Native or Kubernetes communities may contribute to KubeAcademy. 
+
 ## Course Submission Process
 
 KubeAcademy uses a GitHub repository to manage its course backlog. This backlog is open to the public, but as read-only. If you have an idea about a course that you would like to develop for KubeAcademy, you must [create a new issue in the KubeAcademy backlog](https://githueateb.com/kube-academy/backlog/issues). In order to do this, a member of KubeAcademy has to create a GitHub account that gives you write access.
@@ -22,35 +33,53 @@ To submit a course idea to KubeAcademy, do the following:
    - [Create a new issue in Github](https://github.com/kube-academy/backlog/issues). 
    - Copy the information from the KubeAcademy New Course Proposal and paste it into the new issue.
 
-4. Wait for approval from the KubeAcademy before you begin to do work on your course. 
+4. Wait for approval from the KubeAcademy team before you begin to do work on your course. 
 
-   Once your course is approved, see the section, "Onboarding Setup".
+   Once your course outline is approved, see the section, "Onboarding Setup".
 
 ## Onboarding Setup
 
-We also invite you to check out our [GitHub Repository Backlog](https://github.com/orgs/kube-academy/projects/3) for contribution ideas. 
+Now that your course outline is approved, you can begin to develop your video course. To do this, you are going to need:
+
+- Video Equipment
+- Video Recording Software
+- Powerpoint Template
+
+### Required Video Eqipment
+
+To get started recording your video, you are going to need the following equipment:
+
+- Camera. A minimum 1080p Webcam or Camera. For example, Logitech c920s.
+- Microphone (Use Webcam or External Mic such as xxxxx?)
+- Background Screen (KubeAcademy Branded White or KubeAcademy Branded Black or a Green Screen.)
+
+### Optional Video Lighting
+
+Proper lighting improves the quality of a video recording. Though a light setup for your video recording is optional, it is highly recommended. There are several ways to set up lighting for a video recording. These include:
+
+- One Light setup
+  - Key Light
+- Two Light setup
+  - Key Light
+  - Fill Light
+- Three Light Setup
+  - Key
+  - Fill
+  - Rear
+
+### Video Recording Software
+
+The course developers at KubeAcademy use [Open Broadcaster Software (OBS)](https://obsproject.com/) to create videos. OBS provides convenient methods for defining scenes that include various input devices such as a microphone, camera or screen. OBS is a free and open source software that is available for Linux, Mac, and Windows operating systems. 
+
+For specific instructions on how to configure OBS for Kube Academy videos, refer to [OBS](obs.md)
+
+## Record a Sample Video
+
+Hello World!
+
+## Add Your Script to the PowerPoint Template
 
 
-Onboarding Setup (Approved)
-Get all Gear
-Camera (Minimum: 1080p Webcam or Camera e.g. Logitech c920s)
-Microphone (Use Webcam or External Mic such as xxxxx?)
-Background Screen (White or Black or Green Screen)
-(Optional) Recommended Lighting Gear
-One Light setup
-Key Light
-Two Light setup
-Key Light
-Fill Light
-Three Light Setup
-Key
-Fill
-Rear
-Get Software for Recording
-OBS
-Follow installation instructions on OBS Site
-Download Configuration we provide
-Download Powerpoint Template
 Link to public Google Drive Folder?
 Record sample video (Hello World)
 Create a new video with sound and Hello World Slide
@@ -85,43 +114,7 @@ New Course Proposal
 Update Course Proposal
 
 
-This guide includes instructions on how to:
 
-- [Submit an idea for a course, lesson, or workshop.](https://github.com/kube-academy/onboarding/blob/main/templates/new-course.md)
-- Write a script using the [VMware Brand Guidelines](https://www.vmware.com/brand/portal/guidelines.html) and the [VMware Marketing Editorial Guide](https://www.vmware.com/content/dam/brand/photography-only/guidelines/writing-and-naming/editorial-style-guide/marketing-editorial-style-guide.pdf).
-- Submit a script to KubeAcademy for approval.
-- [Download and install Open Broadcaster Software (OBS).](https://obsproject.com/) to record your video.
-- Use the [KubeAcademy Course Template](https://docs.google.com/presentation/d/1Xq2wg6Q8TAucZ7qGy7dAjMpEBVuvqDPt/edit#slide=id.p3) to create a video of your approved script. 
-
-## Can Anyone Contribute to KubeAcademy?
-
-At the present, KubeAcademy is only able to accept course contributions from VMware employees because of the way our submission process works. We are currently updating the submission process so that any member of the Cloud Native or Kubernetes communities may contribute to KubeAcademy. 
-
-### Report Content Issues
-
-One of most beneficial things the Cloud Native and Kubernetes communities can do to ensure the integrity of content at KubeAcademy is to let us know when there is inaccurate or out of date content, or you find a defect in a course, course description, or lab. 
-
-To report a content issue:
-
-1. [Add the issue to the KubeAcademy backlog](https://github.com/kube-academy/backlog/issues). The KubeAcademy backlog keeps track of defects, course update requests, and new course proposal ideas.
-
-2. Do one of the following:
-   - [Submit a Defect Report](https://github.com/kube-academy/onboarding/blob/main/templates/defect.md) if there is an issue with the content you would like to report. If possible, include steps that reproduce the issue.
-   - [Submit an Update Course Request](https://github.com/kube-academy/onboarding/blob/main/templates/update-course.md) to report a course that is in need of a major update, has content that is out of date, or is no longer valid, and should be archived.
-
-## Course Content Types
-
-KubeAcademy's current offerings include video courses made up of one or more lessons, an optional workshop, and (coming soon in a future release) blog posts. A description of the content is as follows:
-
-- **Course**. A series of lessons that cover a specific topic of study. At KubeAcademy, all course content is currently created in a video format. When creating course content, you must include:
-  - An introduction about the course, demo, or lecture.
-  - One or more lessons.
-  - A workshop (optional).
-- **Lesson**. A lecture, demo, or combination of both for a course. A video lesson must be no longer than 7 minutes. 
-- **Workshop**. A hands-on environment where learners can practice how to use Kubernetes. The labs are powered by [Educates](https://github.com/eduk8s). Educates is a Kubernetes Operator that controls the KubeAcademy training environment. 
-- **Blog**. A piece of written work that corresponds to a specific course or workshop.
-
-    Note: The FAQ "course" represents mini-lessons that do not depend upon other material. It supports both an easy entry point for learners and a way for contributors to get started with the video production format of creating courses
 
 ## KubeAcademy Brand Requirements
 
@@ -137,32 +130,11 @@ An instructor bio is needed.
 
 There are two different KubeAcademy backgrounds available. One is a dark background, the other is a light background. To get a background to use in your video, go [here] 
 
-### KubeAcademy Content Formats
-
-Most of the content created for KubeAcademy is in a video format. This includes content for courses, demos, and lectures. The following is a description of content type.
-
-- **Course**. A series of lessons that cover a specific topic of study. At KubeAcademy, all courses are created in a video format. Course content must include:
-  - An introduction about the course, demo, or lecture.
-  - One or more lessons.
-  - A lab (optional).
-- **Lesson**. A lecture, demo, or combination of both that are part of a course. A lesson created for KubeAcademy must be 10 minutes, or less. A lesson created for KubeAcademy Pro does not have a time limit. There are a couple of types of lessons: These include:
-   - Video lectures. 
-   - Video demos.
-   - A combination of a video lecture and a video demo. 
-- **Lab**. A hands-on environment where learners can practice how to use Kubernetes. The labs are powered by [Educates](https://github.com/eduk8s). Educates is a Kubernetes Operator that controls the KubeAcademy training environment. 
-- **Article**. (Coming soon in a future content release.) A piece of written work that corresponds to a specific course.
-
-    Note: The FAQ "course" represents mini-lessons that do not depend upon other material. It supports both an easy entry point for learners and a way for contributors to get started with the video production format of creating courses
-
 ## Scriptwriting Guidelines
 
 Write your script in a pleasant, conversational tone that encourages your audience to want to keep learning Kubernetes. Use active-voice verbs whenever possible, and stay away from passive-voice verbs as much as possible. Use a plain language that your audience can understand. When introducing a term for the first time, make sure to provide a brief definition or explanation. For specialized terminology and brand names, always introduce the full term on the first reference along with its corresponding acronym, if you plan to continue referencing it.
 
 When writing your script, refer to the [VMware Marketing Editorial Style Guide](https://www.vmware.com/content/dam/brand/photography-only/guidelines/writing-and-naming/editorial-style-guide/marketing-editorial-style-guide.pdf) for specific instructions on branding, voice and tone, and inclusive terminology.        
-
-### Start with a Video Brief
-
-One way to start writing a video script is to first a video outline. A video outline helps you organize your course objectives. It also causes you to think more about the needs of your audience as you plan content for your course. Understanding the needs of your audience is key to writing a video script that is compelling, relevant and succinct.
 
 ### Use a Conversational Voice and Tone in Your Script Writing
 
@@ -194,77 +166,6 @@ When writing a script, consider the following terminology do's and do not's.
 
 To submit your script for review, upload it [here]. 
 
-### KubeAcademy Course Template
-
-Once your script is approved by KubeAcademy, you can start to build the course in the [KubeAcademy Course Template](https://docs.google.com/presentation/d/1Xq2wg6Q8TAucZ7qGy7dAjMpEBVuvqDPt/edit#slide=id.p3) by organizing the script content onto the slides. If there is artwork that you would like to add to your course, contact the KubeAcademy for assistance.
-
-## Create a Video
-
-The course developers at KubeAcademy use [Open Broadcaster Software (OBS)](https://obsproject.com/) to create videos. OBS provides convenient methods for defining scenes that include various input devices such as a microphone, camera or screen. OBS is a free and open source software that is available for Linux, Mac, and Windows operating systems. 
-
-### Download and Install OBS
-
-Read the [OBS Studio Quickstart](https://obsproject.com/wiki/OBS-Studio-Quickstart) for information on how to change default settings for audio devices and video sources. 
-
-To download and install OBS Studio:
-
-1. Go to [Open Broadcaster Software (OBS))](https://obsproject.com/).
-2. Select the operating environment to install OBS. There are three choices: Windows, macOS 10.13+, and Linux.
-
-   The OBS installer appears in the bottom, left corner of the page.
-
-3. Select the OBS installer.
-
-   The Auto-Configuration Wizard opens.
-
-4. Run the auto-configuration wizard.
-   
-   The wizard automatically tests your system to define default settings for options such as recording, resolution, and, bitrate. You can manually change these settings later. 
-
-5. Set up your audio devices by doing one or both of the following:
-   
-   - **For macOS users only**. Download and install [iShowU Audio Capture](https://obsproject.com/forum/resources/os-x-capture-audio-with-ishowu-audio-capture.505/) audio driver extension to capture audio before continuing onto the next step.
-   - Verify that the default audio device and microphone are working properly. To do this, open the OBS Studio window and look at the volume meters in the mixer section. If there is a problem with audio or if you want to change the devices in use, go **Settings** > **Audio**.
-
-6. From the Scenes and Sources panel, [add scenes for your video](https://obsproject.com/wiki/OBS-Studio-Overview#scenes-and-sources). This includes webcams and any other devices or media that you want in the output. 
-
-### Configure OBS to Create a Video
-
-To configure OBS: desk perpindicutlar to the window.
-
-1. Go to ? and download the following scene collection config file.
-   `obs-kubeacademy-scenes.json`.
-
-2. Go to [OBS](https://obsproject.com/) and import the scene collection config.
-
-   ![import scene collection](images/import-scene-collection.png)
-
-   Three scenes display in the Scenes and Sources panel. These include: 
-   
-   - **ScreenCap**. Lets you capture your screen and mic at the same time.
-   - **Camera**. Lets you capture your webcam and mic.
-   - **PinP**. Lets you capture all three scenes. It captures your screen as the primary with your camera picture-in-picture.
-
-     ![scenes](recording/images/scenes.png)
-   
-3. Configure each source so that it connects to your computer. This configuration is necessary because the original scene collection file that was exported came from another computer with different sources.
-
-   ![sources](recording/images/sources.png)
-
-4. Select the three devices. Click the cogwheel icon at the bottom of the pane. 
-
-5. Open the preferences for OBS.
-
-   ![preferences](recording/images/preferences.png)
-
-6. Select **Video** from the panel on the left. Set the Base and Output resolution to 1920x1080.
-
-   ![video settings](recording/images/video-settings.png)
-
-If you make a mistake when recording an actual lesson, here's what to do:
-  - Go back to the last transition point. For example, if you made a mistake at the point where you switched slides in a deck, go back and resume recording from there.  
-  - Cut the mistake out of the recording later.
-
 #### Test Record
 
 It is a good idea to test record the three scenes before you do an actual course recording. Make sure to run the test for a few minutes to ensure that there are no issues. If you encounter one, go to [OBS Help](https://obsproject.com/help).
@@ -286,21 +187,6 @@ To test record:
 
 When recording your video course, remember to keep it under seven minutes. If your video is longer than seven minutes, you are going to need to edit the content to comply with the time limit. If you need help editing content, contact KubeAcademy for assistance.
 
-## Video Equipment
-
-I need help here.
-
-Tips for looking at the camera. Sit, or stand?
-Tips for remembering content.
-Tips for using a script.
-Tips for not using a script.
-Video Editing
-Script editing
-
-### Lights, Mics and Other 
-
-I need input.
-
 ## Deploy Content
 Deploying content to a public, production environment requires a number of steps. The following diagram covers many of the major steps. The blue boxes reflect activities most content contributors are actively engaged in doing.
 
@@ -308,5 +194,16 @@ Deploying content to a public, production environment requires a number of steps
 
 We manage KubeAcademy content development much like any standard software development process - by building a backlog of tasks that need to be completed, prioritizing each task, and having members of the team (and community) complete the tasks based on match in skillset, time and interest.
 
+### Report Content Issues
+
+One of most beneficial things the Cloud Native and Kubernetes communities can do to ensure the integrity of content at KubeAcademy is to let us know when there is inaccurate or out of date content, or you find a defect in a course, course description, or lab. 
+
+To report a content issue:
+
+1. [Add the issue to the KubeAcademy backlog](https://github.com/kube-academy/backlog/issues). The KubeAcademy backlog keeps track of defects, course update requests, and new course proposal ideas.
+
+2. Do one of the following:
+   - [Submit a Defect Report](https://github.com/kube-academy/onboarding/blob/main/templates/defect.md) if there is an issue with the content you would like to report. If possible, include steps that reproduce the issue.
+   - [Submit an Update Course Request](https://github.com/kube-academy/onboarding/blob/main/templates/update-course.md) to report a course that is in need of a major update, has content that is out of date, or is no longer valid, and should be archived.
 
 
