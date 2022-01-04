@@ -8,21 +8,33 @@ With Kubernetes constantly evolving in ability, power and speed, so does the nee
 
 At the present, KubeAcademy is only able to accept course contributions from VMware employees because of the way our submission process works. We are currently updating the submission process so that any member of the Cloud Native or Kubernetes communities may contribute to KubeAcademy. 
 
-## How to Submit a Course Idea to KubeAcademy
+## How to Submit a Content Proposal to KubeAcademy
 
-KubeAcademy uses a GitHub repository to manage its course backlog. This backlog is open to the public as read-only. If you have an idea about a course that you would like to develop for KubeAcademy, you can start the submission process by [creating a new issue in the KubeAcademy backlog](https://github.com/kube-academy/backlog/issues). 
+KubeAcademy uses a GitHub repository to manage its course backlog. This backlog is open to the public.  If you would like to submit a content proposal to KubeAcademy, you must complete and submit the KubeAcademy Content Proposal available in the KubeAcademy Backlog.
 
-Before you can create a new issue, a member of KubeAcademy has to apply write access to your GitHub account.
+To submit a content proposal, 
 
-### Request Write Access to the GitHub KubeAcademy Backlog
+1. Go to the [GitHub Kube-Academy Issues Backlog](https://github.com/kube-academy/backlog/issues) and select **New Issue** at the top of the page. 
 
-To request write access to the GitHub KubeAcademy Backlog, leave a message in the #KubeAcademy Slack Channel on VMware Slack. 
+   The KubeAcademy Content Proposal option appears. 
 
-### Create a New Issue in the KubeAcademy Backlog
+2. Select **Get started** at the top of the page to open the KubeAcademy Content Proposal. 
+3. Complete the proposal as follows:
 
-Once you have write access, you can add your course idea to the [KubeAcademy backlog](https://github.com/kube-academy/backlog/issues) by selecting the **New Issue** button, and providing basic information, such as the course title. 
+   - In the Proposed Content Title, enter a title for the content.
+   - For Target, indicate whether the content is a course or a lab by selecting the corresponding option.
+   - For Course Description, provide two or three sentences that describe the content.
+   - For Prerequsites, provide any prerequisites from a KubeAcademy course or lab.
+   - For Learning Outcome, provide a summary of what you expect the learner to know after completing the course.
+   - For Example, identify and summarize the important primitives of Kubernetes architecture.
+   - For Reference, provide a link that references student learning outcomes.
+   - For Outline, present your outline in the sequential order that you plan to teach each lesson and lab in the video. 
 
-### Submit a Course Outine for Approval
+4. Attach any files that you would like to include with the content proposal.
+5. Select **Submit new issue**.
+   Your content proposal is added to the Kube-Academy Backlog.
+
+### Course Outine Approval
 
 Your course outline is going to require approval from the KubeAcademy team. Use the [KubeAcademy New Course Proposal](https://github.com/kube-academy/onboarding/blob/main/templates/new-course.md) form to submit the course outline. 
 
@@ -103,7 +115,7 @@ It is a good idea to test record the three scenes before you do an actual course
 
 ## Create the Video Course
 
-How do you use OBS and Powerpoint to create the video?
+How do you use OBS and Powerpoint to create the video? 
 
 ### Video Course Guidelines
 
@@ -112,6 +124,12 @@ When recording your video, do all the following:
  - Keep the recording time to under seven minutes for each lesson in your course. If your video is longer than seven minutes, it is going to require editing stay within the time limit. If you need help editing content, contact KubeAcademy for assistance.
  - Keep the size of your powerpoint slides under 10MB. If the file is too large, it may not attach to your GitHub issue.
  - Save your video course as an MP4 file. 
+
+### Frequently Asked Questions Video Guideines
+
+When creating a video of frequently asked questions (FAQs), do all the following:
+
+- Keep the recording time between three to five minutes for a video of frequently asked questions. 
 
 ## KubeAcademy from VMware Brand Requirements for Instructors
 
