@@ -22,7 +22,7 @@ To submit a content proposal,
 3. Complete the proposal as follows:
 
    - In the Proposed Content Title, enter a title for the content.
-   - For Target, indicate whether the content is a course or a lab by selecting the corresponding option.
+   - For Target, identify the type of content you want to develop by selecting the corresponding course or lab option.
    - For Course Description, provide two or three sentences that describe the content.
    - For Prerequsites, provide any prerequisites from a KubeAcademy course or lab.
    - For Learning Outcome, provide a summary of what you expect the learner to know after completing the course.
@@ -32,23 +32,19 @@ To submit a content proposal,
 
 4. Attach any files that you would like to include with the content proposal.
 5. Select **Submit new issue**.
-   Your content proposal is added to the Kube-Academy Backlog.
 
-### Course Outine Approval
-
-Your course outline is going to require approval from the KubeAcademy team. Use the [KubeAcademy New Course Proposal](https://github.com/kube-academy/onboarding/blob/main/templates/new-course.md) form to submit the course outline. 
-
-When adding your course outline, make sure to display it in the sequential order that you plan to teach each lesson and workshop in the video. Other information required on this form includes the course title, description, prerequisites, and learning outcomes.
-
-When the form is complete, copy, and paste its content into your new GitHub issue so that the KubeAcademy team can review it. 
-
-Once your course is approved, a member of the KubeAcademy team will contact you. Do not begin work on the new course until you receive approval.
+   Your content proposal is added to the Kube-Academy Backlog. Once your course is approved, a member of the KubeAcademy team will contact you. Do not begin work on the new content until you receive approval.
 
 ## Instructor Onboarding 
 
-Instructor onboarding includes ensuring that you have the proper equipment to record a high quality video for KubeAcademy, and verifying that the equipment works accurately by submitting a **Hello World** video sample to KubeAcademy for review.
+There are a couple of steps to complete during your instructor onboarding. These include:
 
-Note: For instructions on how to create the **Hello World** video sample, go to the section, **Create a "Hello World" Video Sample**.
+   - Ensuring that you have the required video equipment, lighting and video recording app to record a high quality video for KubeAcademy.
+   - Verifying that the equipment works accurately by submitting a 1-3 minute **Hello World** sample video to KubeAcademy to review.
+   - Creating a Contributor's Biography. 
+   - Providing course metadata.
+
+### Required Video Equipment
 
 To record a video, you need:
 
@@ -59,13 +55,15 @@ To record a video, you need:
 - Video recording software. For example, [Open Broadcaster Software (OBS)](https://obsproject.com/).
 - The [KubeAcademy Course Creation Template](https://drive.google.com/file/d/1hD6-2eKwSTa1WJKSJq_mj3NRS3K_5HOD/view?usp=sharing).
 
-### Video Lighting (Optional)
+### Video Lighting 
 
-There are a couple of different ways to set up lighting for your video. This includes one-point lighting, two-point lighting, and three-point lighting.
+There are a couple of different ways you can set up lighting for your video. This includes one-point lighting, two-point lighting, and three-point lighting.
 
 - **One-point lighting** is made up of a single, key light. You can position the key light as top-down, side, or ring lighting.
 - **Two-point lighting** is made up of a key light, and a fill light. The key light is the primary, and brightest light between the two. The purpose of the fill light is to improve the illumination of the key light by lightening the shadows in a video. 
 - **Three point lighting** is made up of a key light, a fill light, and a backlight. The key light is the primary, and brightest light between the two. The purpose of the fill light is to improve the illumination of the key light by lightening the shadows in a video. The backlight provides depth to the video by creating a rim light that pushes you away from the background. 
+
+Note: The use of video lighting in your video is optional.
 
 ### Video Recording Software
 
@@ -86,21 +84,21 @@ To create a Hello World video sample with sound:
 1. Open the [KubeAcademy PowerPoint New Course Template](https://drive.google.com/file/d/1hD6-2eKwSTa1WJKSJq_mj3NRS3K_5HOD/view?usp=sharing) in the KubeAcademy Onboarding Google Docs folder.
 2. Go **File** > **Make a Copy** > **Entire Presentation**.
 3. From the template copy, go **File** > **Rename** to rename your Hello World video sample. Save it to your GitHub folder containing the templates.
-3. In Slide 1, do all the following:
+4. In Slide 1, do all the following:
 
    - Insert the sample MP4 video over the **PLACE YOUR VIDEO HERE** box.
    - Replace **Title** with the title of your course.
    - Replace **Subtitle** with **Video Course Sample**
    - Replace **Speaker's Name**, and **Role/Title** with your name, role or title.
 
-3. In two or more of the other slides, continue to add sample content.
-4. Delete any slides from your Hello World video sample that you did not use.
-4. Go to the [KubeAcademy backlog](https://github.com/kube-academy/backlog/issues) in GitHub.
-5. Attach the Hello World video to the issue that you created for your course in GitHub.
-
-It is a good idea to test record the three scenes before you do an actual course recording. Make sure to run the test for a few minutes to ensure that there are no issues. If you encounter one, contact the KubeAcademy team through Slack at ?, or go to [OBS Help](https://obsproject.com/help).
+5. In two or more of the other slides, continue to add sample content.
+6. Delete any slides from your Hello World video sample that you did not use.
+7. Go to the [KubeAcademy backlog](https://github.com/kube-academy/backlog/issues) in GitHub.
+8. Attach the Hello World video to the issue that you created for your course in GitHub.
 
 ### Test Record using OBS
+
+It is a best practice to test record the three scenes before you do an actual course recording. Make sure to run the test for a few minutes to ensure that there are no issues. If you encounter one, contact the KubeAcademy team by leaving a message in GitHub or on the , or go to [OBS Help](https://obsproject.com/help).
 
 1. From OBS, go **Settings** > **Output**. 
 2. In the **Controls** panel, select **Start Recording**.
@@ -115,7 +113,7 @@ It is a good idea to test record the three scenes before you do an actual course
 
 ## Create the Video Course
 
-How do you use OBS and Powerpoint to create the video? 
+**Hi, I think we need some specific information here. Maybe not the entire step-by-step process, but caveats such as the issue that can occur in the Powerpoint Spreadsheet when sizing the instructor cube.**
 
 ### Video Course Guidelines
 
@@ -163,14 +161,14 @@ The following terminology guidelines identify specific types of terms that you c
 When writing a script, consider the following terminology do's and do not's.
 
 - **Do** 
-   - use words that are neutral and positive. 
-   - use gender-neutral terminology, unless it is relevant to the content. For example, use **they** instead of **he** or **she** and **person hours** instead of **man hours**. 
-   - use non-violent terms that imply pain or degradation. For example, use **turn off the switches** instead of **kill the switch**.
-   - use terms that are free of ableism. For example, use **challenge** instead of **handicap**; use **sanity check** instead of **confidence check**.
+   - Use words that are neutral and positive. 
+   - Use gender-neutral terminology, unless it is relevant to the content. For example, use **they** instead of **he** or **she** and **person hours** instead of **man hours**. 
+   - Use non-violent terms that imply pain or degradation. For example, use **turn off the switches** instead of **kill the switch**.
+   - Use terms that are free of ableism. For example, use **challenge** instead of **handicap**; use **sanity check** instead of **confidence check**.
 - **Do not** 
-   - use terminology that is jargon and slang.
-   - use charged terminology. This includes words with shock value that demean, hurt, imply negative judgment.
-   - objectify persons. For example, do not use **male** to signify a plug. Do not use female to signify a socket.
+   - Use terminology that is jargon and slang.
+   - Use charged terminology. This includes words with shock value that demean, hurt, imply negative judgment.
+   - Objectify persons. For example, do not use **male** to signify a plug. Do not use female to signify a socket.
 
 ## Deploy Content
 
@@ -192,33 +190,4 @@ To report a content issue:
    - [Submit a Defect Report](https://github.com/kube-academy/onboarding/blob/main/templates/defect.md) if there is an issue with the content you would like to report. If possible, include steps that reproduce the issue.
    - [Submit an Update Course Request](https://github.com/kube-academy/onboarding/blob/main/templates/update-course.md) to report a course that is in need of a major update, has content that is out of date, or is no longer valid, and should be archived.
 
-KA: We create a folder in kube-academy/backlog/courses/<course-name> and populate with template files...
-Course Creation
-KA Team To Dos
-Invite to KA bi-weekly
-Access to KA Drive (VMware Employees)
-Outline
-Outline.md
-Script & Slides
-Script.md
-Slides PPT (up to 10MB)?
-If too large, share via Google Drive or other appropriate sharing
-Note: We can move to KA Google Drive at VMware…
-Video Recording
-MP4 File
-Course Metadata (for publishing to site)
-Contributor Bio
-Course Name
-Course Description
-Lesson Description
-
-To Do:
-Check base level permissions for repository for contribution requests/etc.
-https://github.com/kube-academy/backlog
-Use backlog for all issues related to roadmap	
-Create Github Templates
-Bug Report 
-Recording Setup Template
-New Course Proposal
-Update Course Proposal
 
