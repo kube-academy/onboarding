@@ -1,44 +1,70 @@
-# Open Broadcaster Software
+# Open Broadcaster Software Studio
 
-This document will help you get up and running with [Open Broadcaster Software (OBS)](https://obsproject.com/).
+Open Broadcaster Software Studio is a free and open source software that you can use to record lessons for KubeAcademy.  
+provides convenient methods to define "Scenes" that include various input devices such as your microphone, a camera or your screen.
 
-OBS is free and open source software that can be used to record KubeAcademy lessons.  It provides convenient methods to defind "Scenes" that include various input devices such as your microphone, a camera or your screen.
+## Download and Install OBS
 
-## Install
+Read the [OBS Studio Quickstart](https://obsproject.com/wiki/OBS-Studio-Quickstart) for information on how to change default settings for audio devices and video sources. 
 
-The [download page](https://obsproject.com/download) provides download options for the installer.  It is available for Windows, Mac and Linux.
+To download and install OBS Studio:
 
-## Configuration
+1. Go to [Open Broadcaster Software (OBS))](https://obsproject.com/).
+2. Select the operating environment to install OBS. There are three choices: Windows, macOS 10.13+, and Linux.
 
-With OBS installed, download `obs-kubeacademy-scenes.json` scene collection config file.
+   The OBS installer appears in the bottom, left corner of the page.
 
-Then, in OBS import that scene collection config.
+3. Select the OBS installer.
 
-![import scene collection](images/import-scene-collection.png)
+   The Auto-Configuration Wizard opens.
 
-Now, you should see 3 items in the Scenes pane.
+4. Run the auto-configuration wizard.
+   
+   The wizard automatically tests your system to define default settings for options such as recording, resolution, and, bitrate. You can manually change these settings later. 
 
-![scenes](images/scenes.png)
+5. Set up your audio devices by doing one or both of the following:
+   
+   - **For macOS users only**. Download and install [iShowU Audio Capture](https://obsproject.com/forum/resources/os-x-capture-audio-with-ishowu-audio-capture.505/) audio driver extension to capture audio before continuing onto the next step.
+   - Verify that the default audio device and microphone are working properly. To do this, open the OBS Studio window and look at the volume meters in the mixer section. If there is a problem with audio or if you want to change the devices in use, go **Settings** > **Audio**.
 
-The "ScreenCap" scene allows you to capture your screen and mic at the same time.
+6. From the Scenes and Sources panel, [add scenes for your video](https://obsproject.com/wiki/OBS-Studio-Overview#scenes-and-sources). This includes webcams and any other devices or media that you want in the output. 
 
-The "Camera" scene allows you to capture your webcam and mic.
+### Configure OBS to Create a Video
 
-The "PinP" captures all three.  It captures your screen as the primary with your camera picture-in-picture.
+To configure OBS: desk perpindicutlar to the window.
 
-You should see three devices under "Sources."
+1. Go to GitHub and download the following scene collection config file.
+   **obs-kubeacademy-scenes.json**.
 
-![sources](images/sources.png)
+2. Go to [OBS](https://obsproject.com/) and import the scene collection config.
 
-These three devices will need to be configured to use the devices connected to your computer.  The scene collection file you imported was exported from another computer with different devices attached.  For each device, simply select it, then click the cogwheel icon at the bottom of the pane and set them to use the appropriate device for your setup.
+   ![import scene collection](images/import-scene-collection.png)
 
-Lastly, open the preferences for OBS.
+   Three scenes display in the Scenes and Sources panel. These include: 
+   
+   - **ScreenCap**. Lets you capture your screen and mic at the same time.
+   - **Camera**. Lets you capture your webcam and mic.
+   - **PinP**. Lets you capture all three scenes. It captures your screen as the primary with your camera picture-in-picture.
 
-![preferences](images/preferences.png)
+     ![scenes](recording/images/scenes.png)
+   
+3. Configure each source so that it connects to your computer. This configuration is necessary because the original scene collection file that was exported came from another computer with different sources.
 
-Select "Video" from the panel on the left and set the Base and Output resolution to 1920x1080.
+   ![sources](recording/images/sources.png)
 
-![video settings](images/video-settings.png)
+4. Select the three devices. Click the cogwheel icon at the bottom of the pane. 
+
+5. Open the preferences for OBS.
+
+   ![preferences](recording/images/preferences.png)
+
+6. Select **Video** from the panel on the left. Set the Base and Output resolution to 1920x1080.
+
+   ![video settings](recording/images/video-settings.png)
+
+If you make a mistake when recording an actual lesson, here's what to do:
+  - Go back to the last transition point. For example, if you made a mistake at the point where you switched slides in a deck, go back and resume recording from there.  
+  - Cut the mistake out of the recording later.
 
 ## Recording
 

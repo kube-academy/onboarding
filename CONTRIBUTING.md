@@ -1,97 +1,193 @@
-# Contributing to KubeAcademy
-Thanks for your interest in contributing! The purpose of this document to help explain various ways in which you can contribute. We not only need content contributions but help with process improvements and reviewing content and testing labs!
+# KubeAcademy from VMware Contributor's Guide
 
-## Mission 
-At KubeAcademy, our mission is to lower the barrier to entry for anyone wanting to learn and adopt Kubernetes by providing free Kubernetes knowledge, directly from experienced practitioners.
+The KubeAcademy from VMware Contributor's Guide is written exclusively for instructors and practitioners who are creating course content for KubeAcademy. KubeAcademy provides free Kubernetes training for beginner, intermediate, and advanced skillset levels. 
 
-## Community
-KubeAcademy is built with love and passion for the Cloud Native and Kubernetes community. The Cloud Native ecosystem moves fast and covering each area with appropriate depth is challenging! We need community contributions to keep up in this fast moving space, and are looking for experienced practioners to contribute content, help with content review, and sreamline the content contribution process.
+With Kubernetes constantly evolving in ability, power and speed, so does the need to create timely, relevant course content with appropriate depth. It's one reason why KubeAcademy is always looking for Kubernetes experts in the Cloud Native and Kubernetes communities who are interested in creating and reviewing course content. 
 
-### Eligibility
-At this time we are only able to accept course contributions from VMware employees. We do plan to expand elegibility in the future as we streamline our process. 
+## Can Anyone Contribute to KubeAcademy?
 
-If you are not a VMware employee, however, there are ways you can contribute. First, please report any [defects](#Defects) you find.
+At the present, KubeAcademy is only able to accept course contributions from VMware employees because of the way our submission process works. We are currently updating the submission process so that any member of the Cloud Native or Kubernetes communities may contribute to KubeAcademy. 
 
-### Slack Channel
-On VMware slack, we are on the #KubeAcademy slack channel. Let us know if you are interested in contributing and we can help you get started.
+## How to Submit a Content Proposal to KubeAcademy
 
-## Content
-The content development process in which we are describing in this document refers to the course content being developed.  The KubeAcademy site itself is built on Laravel and the development of the main site and styling is not described here. The focus of this document is on how to generate the artifacts (videos, scripts, etc.) that comprise the final components uploaded to the site for the courses.
+KubeAcademy uses a GitHub repository to manage its course backlog. This backlog is open to the public.  If you would like to submit a content proposal to KubeAcademy, you must complete and submit the KubeAcademy Content Proposal available in the KubeAcademy Backlog.
 
-Each course is comprised of multiple lessons which cover specific topics related to the course.  Our courses are presented in video format delivered by instructures as a lecture or a demo (or both).  We also have recently introduced labs that provide learners with a hands-on environment and is powered by [Educates](https://github.com/eduk8s).
+To submit a content proposal, 
 
-### KubeAcademy and KubeAcademy Pro
-We have both short-form courses on KubeAcademy as well as longer-form courses available on KubeAcademy Pro. Both types of courses are completely free, although KubeAcademy Pro does require registration.
+1. Go to the [GitHub Kube-Academy Issues Backlog](https://github.com/kube-academy/backlog/issues) and select **New Issue** at the top of the page. 
 
-The primary distinction between KubeAcademy and KubeAcademy Pro is the time commitment required of the learner and the depth of coverage of each topic in the course. KubeAcademy Pro courses cover topics in more depth and have an overall longer duration for the course as well as longer lesson runtimes. 
+   The KubeAcademy Content Proposal option appears. 
 
-When someone submits a course for development, we will identify whether the course is better suited for one format or the other.
+2. Select **Get started** at the top of the page to open the KubeAcademy Content Proposal. 
+3. Complete the proposal as follows:
 
-#### Courses
-Course:
-- A course is comprised of 1 or more Lessons (excluding Intro/Summary Lecture)
-- A couse may optionally include a Lab
-- A course must have an Intro Lecture 
-- A course must have an Summary Lecture
-- Lessons can be:
-    - Standard Video Lecture
-    - Video Demo
-    - Combination Video Lecture and Demo
-    - **Note:** Lessons for KubeAcademy must be under 10 minutes; Lessons for KubeAcademy Pro have no maximum time limit.
-- Labs
-    - Developed using [Educates](https://github.com/eduk8s)
+   - In the Proposed Content Title, enter a title for the content.
+   - For Target, identify the type of content you want to develop by selecting the corresponding course or lab option.
+   - For Course Description, provide two or three sentences that describe the content.
+   - For Prerequsites, provide any prerequisites from a KubeAcademy course or lab.
+   - For Learning Outcome, provide a summary of what you expect the learner to know after completing the course.
+   - For Example, identify and summarize the important primitives of Kubernetes architecture.
+   - For Reference, provide a link that references student learning outcomes.
+   - For Outline, present your outline in the sequential order that you plan to teach each lesson and lab in the video. 
 
-#### Exception: FAQ Course
+4. Attach any files that you would like to include with the content proposal.
+5. Select **Submit new issue**.
 
-One exception to the above definition of a course is the FAQ "course". The intent of the FAQ "course" is to represent short bite-sized lessons that do not depend upon other material. It supports both an easy entry point for learners and a way for contributors to get started with the video production format of creating courses
+   Your content proposal is added to the Kube-Academy Backlog. Once your course is approved, a member of the KubeAcademy team will contact you. Do not begin work on the new content until you receive approval.
 
-### Other Content
+## Instructor Onboarding 
 
-(Coming Soon) In addition to video content, we are planning future releases to include written content in the form of Articles.
+There are a couple of steps to complete during your instructor onboarding. These include:
 
-### Recording Video Content
+   - Ensuring that you have the required video equipment, lighting and video recording app to record a high quality video for KubeAcademy.
+   - Verifying that the equipment works accurately by submitting a 1-3 minute **Hello World** sample video to KubeAcademy to review.
+   - Creating a Contributor's Biography. 
+   - Providing course metadata.
 
-See our document on [recording lessons with OBS](recording/obs.md) to get started recording video content.
+### Required Video Equipment
 
-## Process
-Deploying anything to a public/produciton environment requires a number of steps that often go undocumented. In the interest of completeness, the following diagram covers many of the major steps. The boxes shaded in blue are intended to reflect activities most content contributors will be actively engaged in.
+To record a video, you need:
+
+- Video equipment
+   - Camera. Use a 1080p webcam or camera, at a minimum. For example, Logitech c920s.
+   - Microphone. Use the one with your webcam or add an external Mic such as xxxxx.
+   - Video Lighting (*optional*). Consider a one light setup, two light setup, or three point light setup.
+- Video recording software. For example, [Open Broadcaster Software (OBS)](https://obsproject.com/).
+- The [KubeAcademy Course Creation Template](https://drive.google.com/file/d/1hD6-2eKwSTa1WJKSJq_mj3NRS3K_5HOD/view?usp=sharing).
+
+### Video Lighting 
+
+There are a couple of different ways you can set up lighting for your video. This includes one-point lighting, two-point lighting, and three-point lighting.
+
+- **One-point lighting** is made up of a single, key light. You can position the key light as top-down, side, or ring lighting.
+- **Two-point lighting** is made up of a key light, and a fill light. The key light is the primary, and brightest light between the two. The purpose of the fill light is to improve the illumination of the key light by lightening the shadows in a video. 
+- **Three point lighting** is made up of a key light, a fill light, and a backlight. The key light is the primary, and brightest light between the two. The purpose of the fill light is to improve the illumination of the key light by lightening the shadows in a video. The backlight provides depth to the video by creating a rim light that pushes you away from the background. 
+
+Note: The use of video lighting in your video is optional.
+
+### Video Recording Software
+
+The course developers at KubeAcademy use [Open Broadcaster Software (OBS)](https://obsproject.com/) to create videos. It is a free and open source software that is available for Linux, Mac, and Windows operating systems. OBS lets you set up scenes for input devices such as a microphone, camera or screen.  
+
+For instructions on how to configure OBS for Kube Academy videos, see [OBS](obs.md).
+
+## KubeAcademy PowerPoint New Course Template
+
+The [KubeAcademy PowerPoint New Course Template](https://drive.google.com/file/d/1hD6-2eKwSTa1WJKSJq_mj3NRS3K_5HOD/view?usp=sharing) is where you add the content for your video course, including a video of yourself teaching the course, the course title, agenda, slide titles and instructional content.
+
+### Create a "Hello World" Video Sample
+
+A **Hello World** video is a 1 - 3 minute sample video that you create and submit to the KubeAcademy before you start recording the new course. This is so the KubeAcademy team can ensure that OBS, your video and mic are working properly, and to assist you with any issues if they are not.
+
+To create a Hello World video sample with sound:
+
+1. Open the [KubeAcademy PowerPoint New Course Template](https://drive.google.com/file/d/1hD6-2eKwSTa1WJKSJq_mj3NRS3K_5HOD/view?usp=sharing) in the KubeAcademy Onboarding Google Docs folder.
+2. Go **File** > **Make a Copy** > **Entire Presentation**.
+3. From the template copy, go **File** > **Rename** to rename your Hello World video sample. Save it to your GitHub folder containing the templates.
+4. In Slide 1, do all the following:
+
+   - Insert the sample MP4 video over the **PLACE YOUR VIDEO HERE** box.
+   - Replace **Title** with the title of your course.
+   - Replace **Subtitle** with **Video Course Sample**
+   - Replace **Speaker's Name**, and **Role/Title** with your name, role or title.
+
+5. In two or more of the other slides, continue to add sample content.
+6. Delete any slides from your Hello World video sample that you did not use.
+7. Go to the [KubeAcademy backlog](https://github.com/kube-academy/backlog/issues) in GitHub.
+8. Attach the Hello World video to the issue that you created for your course in GitHub.
+
+### Test Record using OBS
+
+It is a best practice to test record the three scenes before you do an actual course recording. Make sure to run the test for a few minutes to ensure that there are no issues. If you encounter one, contact the KubeAcademy team by leaving a message in GitHub or on the , or go to [OBS Help](https://obsproject.com/help).
+
+1. From OBS, go **Settings** > **Output**. 
+2. In the **Controls** panel, select **Start Recording**.
+
+   ![controls](recording/images/controls.png)
+
+3. Do all of the following:
+
+   a. Perform a test for three different scenes: mic, screen, and webcam.
+   b. Speak a few words to test the mic pick up.  
+   c. In the **Controls** pane, select **Stop Recording**.
+
+## Create the Video Course
+
+**Hi, I think we need some specific information here. Maybe not the entire step-by-step process, but caveats such as the issue that can occur in the Powerpoint Spreadsheet when sizing the instructor cube.**
+
+### Video Course Guidelines
+
+When recording your video, do all the following:
+
+ - Keep the recording time to under seven minutes for each lesson in your course. If your video is longer than seven minutes, it is going to require editing stay within the time limit. If you need help editing content, contact KubeAcademy for assistance.
+ - Keep the size of your powerpoint slides under 10MB. If the file is too large, it may not attach to your GitHub issue.
+ - Save your video course as an MP4 file. 
+
+### Frequently Asked Questions Video Guideines
+
+When creating a video of frequently asked questions (FAQs), do all the following:
+
+- Keep the recording time between three to five minutes for a video of frequently asked questions. 
+
+## KubeAcademy from VMware Brand Requirements for Instructors
+
+VMware brand names such as **KubeAcademy from VMware** are essential elements of the company’s identity. KubeAcademy encourages all instructors to become familiar with the [The VMware Brand Voice Guidelines](https://www.vmware.com/content/dam/brand/photography-only/guidelines/writing-and-naming/brand-voice-guide/VMware-Brand-Voice-Guidelines.pdf) when referring to VMware brand names in a course.
+
+### KubeAcademy from VMware Instructor Brand Apparel
+
+VMware and KubeAcademy from VMware brand apparel are the only types of branded apparel that an instructor may wear in a KubeAcademy video course. This applies specifically to hats, jackets, shirts, sweaters, and sweatshirts. 
+
+### Kubernetes Academy Brand Video Backgrounds
+
+There are two official KubeAcademy backgrounds. These include: [KubeAcademy White](https://drive.google.com/file/d/1QcN_oPjshLARn0-C6TKqUIbSHKkuzHsB/view?usp=sharing), and [KubeAcademy Black](https://drive.google.com/file/d/1hD6-2eKwSTa1WJKSJq_mj3NRS3K_5HOD/view?usp=sharing). You also have the option of using a Green screen.
+
+## Scriptwriting Guidelines
+
+Voice and tone are important elements of the VMware brand. How you sound is as important as what you say. When writing your script, refer to the [VMware Marketing Editorial Style Guide](https://www.vmware.com/content/dam/brand/photography-only/guidelines/writing-and-naming/editorial-style-guide/marketing-editorial-style-guide.pdf) for specific instructions on branding, voice and tone, and inclusive terminology. 
+
+Here are a few guiding principles:
+
+- Write your script in a pleasant, conversational tone that encourages your audience to want to keep learning Kubernetes. 
+- Use plain language that your audience can understand.
+- Use active-voice verbs and passive-voice verbs as little as possible. 
+- When introducing a term for the first time, make sure to provide a brief definition or explanation. For specialized terminology and brand names, always introduce the full term on the first reference along with its corresponding acronym, if you plan to reference it elsewhere in the course.
+- Know your audience. Demonstrate that you undertand their challenges and they will trust your solutions.
+- Elevate KubeAcademy relevance. Unexpected examples that highlight KubeAcademy's unique approach and value can go a long way.
+
+### Terminology Do's and Do Not's
+
+The following terminology guidelines identify specific types of terms that you cannot use in your scripts. For a list of terminology that you cannot use in scripts or workshops submitted to KubeAcademy, go to https://source.vmware.com/portal/pages/global-marketing/terminology-changes.
+
+When writing a script, consider the following terminology do's and do not's.
+
+- **Do** 
+   - Use words that are neutral and positive. 
+   - Use gender-neutral terminology, unless it is relevant to the content. For example, use **they** instead of **he** or **she** and **person hours** instead of **man hours**. 
+   - Use non-violent terms that imply pain or degradation. For example, use **turn off the switches** instead of **kill the switch**.
+   - Use terms that are free of ableism. For example, use **challenge** instead of **handicap**; use **sanity check** instead of **confidence check**.
+- **Do not** 
+   - Use terminology that is jargon and slang.
+   - Use charged terminology. This includes words with shock value that demean, hurt, imply negative judgment.
+   - Objectify persons. For example, do not use **male** to signify a plug. Do not use female to signify a socket.
+
+## Deploy Content
+
+Deploying content to a public, production environment requires a number of steps. The following diagram covers many of the major steps. The blue boxes reflect activities most content contributors are actively engaged in doing.
 
 ![Image](https://docs.google.com/drawings/d/e/2PACX-1vQAcCAMyF1Gce3rpXToIyX02qoEFRf55gU9SbOprQaL1KE4nPjMvKWE5XqGI8zLYTG6stQ3Vq-HPYSH/pub?w=960&h=720)
 
 We manage KubeAcademy content development much like any standard software development process - by building a backlog of tasks that need to be completed, prioritizing each task, and having members of the team (and community) complete the tasks based on match in skillset, time and interest.
 
-We have identified three different types of requests that will come into the backlog:
-- Defects
-- Course Update Proposal
-- New Course Proposal
+### Report Content Issues
 
-> **_Note:_** We are using Github Issues for managing the document process. While the site content is not in the repository, we are exposing a repository, backlog, for communicating requests and reporting issues.
+One of most beneficial things the Cloud Native and Kubernetes communities can do to ensure the integrity of content at KubeAcademy is to let us know when there is inaccurate or out of date content, or you find a defect in a course, course description, or lab. 
 
-### Defects
-Content, like software will have defects. If you identify anything incorrect in the website, in a course or lecture content, please submit a Github Issue providing the following information:
+To report a content issue:
 
-https://github.com/kube-academy/onboarding/blob/main/templates/defect.md
+1. [Add the issue to the KubeAcademy backlog](https://github.com/kube-academy/backlog/issues). The KubeAcademy backlog keeps track of defects, course update requests, and new course proposal ideas.
 
-Github Repo:
-[Issue Repo](https://github.com/kube-academy/backlog/issues)
+2. Do one of the following:
+   - [Submit a Defect Report](https://github.com/kube-academy/onboarding/blob/main/templates/defect.md) if there is an issue with the content you would like to report. If possible, include steps that reproduce the issue.
+   - [Submit an Update Course Request](https://github.com/kube-academy/onboarding/blob/main/templates/update-course.md) to report a course that is in need of a major update, has content that is out of date, or is no longer valid, and should be archived.
 
-### Course Update Proposal
-Beyond defects, when a course becomes out of date or needs more signifiant change than can be captured in a defect report, please make a request using the following course update template:
-
-https://github.com/kube-academy/onboarding/blob/main/templates/update-course.md
-
-Github Repo:
-[Issue Repo](https://github.com/kube-academy/backlog/issues)
-
-### New Course Proposal
-In order to request a new course, please make a request using the following template:
-
-https://github.com/kube-academy/onboarding/blob/main/templates/new-course.md
-
-Github Repo:
-[Issue Repo](https://github.com/kube-academy/backlog/issues)
-
-### Backlog
-(In Progress)
-[KubeAcademy Course Backlog](https://github.com/orgs/kube-academy/projects/3)
 
