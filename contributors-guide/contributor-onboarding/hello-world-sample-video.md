@@ -17,9 +17,10 @@ To create a Hello World video sample with sound:
 5. In two or more of the other slides, continue to add sample content.
 6. Delete any slides from your Hello World video sample that you did not use.
 7. Go to the [KubeAcademy backlog](https://github.com/kube-academy/backlog/issues) in GitHub.
-8. Attach the Hello World video to the issue that you created for your course in GitHub.
+8. Attach the Hello World video to the issue that you created for your course in the backlog.
 
 ----
 See also:
 
 [Contributor Onboarding](contributors-guide/contributor-onboarding/contributor-onboarding.md)
+[KubeAcademy Powerpoint New Course Template](contributors-guide/contributor-onboarding/kubeacademy-powerpoint-new-course-template.md)

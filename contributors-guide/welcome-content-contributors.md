@@ -11,7 +11,7 @@ If you are interested in contributing content to KubeAcademy, you must have a Gi
 See Also:
 
 [Contributor Onboarding](contributors-guide/contributor-onboarding)
-[KubeAcademy Content Backlog]()
+[KubeAcademy Content Backlog](contributors-guide/contributors-backlog)
 [Content Contribution Types](contributor's-guide/ways-to-contribute-content.md)
 
 

@@ -11,6 +11,7 @@ Note: At the present, KubeAcademy is only able to accept new content proposals f
 ----
 See Also:
 
-[Contributor Onboarding]()
-[KubeAcademy Content Backlog]()
-[Content Contribution Proposal]()]
+[Contributor Onboarding](contributors-guide/contributor-onboarding)
+[KubeAcademy Content Backlog](contributors-guide/contributors-backlog)
+
+
