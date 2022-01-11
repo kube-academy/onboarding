@@ -5,7 +5,7 @@ A **Hello World** video is a 1 - 3 minute sample video that you create and submi
 To create a Hello World video sample with sound:
 
 1. Open the [KubeAcademy PowerPoint New Course Template](https://drive.google.com/file/d/1hD6-2eKwSTa1WJKSJq_mj3NRS3K_5HOD/view?usp=sharing) in the KubeAcademy Onboarding Google Docs folder.
-2. Go **File** > **Make a Copy** > **Entire Presentation**.
+2. From the template, go **File** > **Make a Copy** > **Entire Presentation**.
 3. From the template copy, go **File** > **Rename** to rename your Hello World video sample. Save it to your GitHub folder containing the templates.
 4. In Slide 1, do all the following:
 
