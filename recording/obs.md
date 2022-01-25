@@ -1,7 +1,11 @@
 # Open Broadcaster Software Studio
 
-Open Broadcaster Software Studio is a free and open source software that you can use to record lessons for KubeAcademy.  
-provides convenient methods to define "Scenes" that include various input devices such as your microphone, a camera or your screen.
+Open Broadcaster Software Studio is a free and open source software for you to use to record lessons for KubeAcademy.  
+
+To get started, download and run the installer
+
+
+It provides convenient methods to define "Scenes" that include various input devices such as your microphone, a camera or your screen.
 
 ## Download and Install OBS
 
@@ -9,23 +13,31 @@ Read the [OBS Studio Quickstart](https://obsproject.com/wiki/OBS-Studio-Quicksta
 
 To download and install OBS Studio:
 
-1. Go to [Open Broadcaster Software (OBS))](https://obsproject.com/).
+1. Go to [Open Broadcaster Software (OBS)](https://obsproject.com/).
 2. Select the operating environment to install OBS. There are three choices: Windows, macOS 10.13+, and Linux.
 
    The OBS installer appears in the bottom, left corner of the page.
 
 3. Select the OBS installer.
 
-   The Auto-Configuration Wizard opens.
+   The OBS-Studio panel appears.
+
+   ![OBS Studio panel](./images/obs-studio-icon.png)
+
+4. Select OBS.
+
+   The Auto-Configuration Wizard appears.
+
+   Note: The auto-configuration wizard appars the first time you run OBS. To manually open the wizard, go **Tools** > **Auto-Configuration Wizard**.
 
 4. Run the auto-configuration wizard.
    
    The wizard automatically tests your system to define default settings for options such as recording, resolution, and, bitrate. You can manually change these settings later. 
 
-5. Set up your audio devices by doing one or both of the following:
+5. Set up your audio devices by doing one or both of the following, depending on your operating system:
    
-   - **For macOS users only**. Download and install [iShowU Audio Capture](https://obsproject.com/forum/resources/os-x-capture-audio-with-ishowu-audio-capture.505/) audio driver extension to capture audio before continuing onto the next step.
-   - Verify that the default audio device and microphone are working properly. To do this, open the OBS Studio window and look at the volume meters in the mixer section. If there is a problem with audio or if you want to change the devices in use, go **Settings** > **Audio**.
+   - **For macOS Users Only**. Download and install [Blackhole Audio](https://obsproject.com/forum/resources/mac-desktop-audio-using-blackhole.1191/) before continuing to the next step. This app provides direct capture methods for desktop audio devices for your MacOS. 
+   - Verify that the default audio and microphone devices are working properly. To do this, open the OBS Studio window and look at the volume meters in the mixer section. If there is a problem with audio or if you want to change the devices in use, go **Settings** > **Audio**.
 
 6. From the Scenes and Sources panel, [add scenes for your video](https://obsproject.com/wiki/OBS-Studio-Overview#scenes-and-sources). This includes webcams and any other devices or media that you want in the output. 
 
@@ -33,12 +45,22 @@ To download and install OBS Studio:
 
 To configure OBS: desk perpindicutlar to the window.
 
-1. Go to GitHub and download the following scene collection config file.
-   **obs-kubeacademy-scenes.json**.
+1. From the OBS menu bar go **Scene Collection** > **Import**
+
+   The Scene Collection Importer appears.
+
+   ![import scene collection](images/import-scene-collection.png)
+
+2. Select **Add** at the bottom of the panel. 
+
+   A navigation panel opens. 
+
+3. From the panel, go **GitHub** > **Onboarding** > **Recording** > **obs-kubeacademy-scenes.json**
+4. Select **Open** at the bottom of the panel.
 
 2. Go to [OBS](https://obsproject.com/) and import the scene collection config.
 
-   ![import scene collection](images/import-scene-collection.png)
+ 
 
    Three scenes display in the Scenes and Sources panel. These include: 
    
