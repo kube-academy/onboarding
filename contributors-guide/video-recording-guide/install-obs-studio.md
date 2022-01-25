@@ -19,7 +19,7 @@ To get started, do the following:
 
    The Auto-Configuration Wizard appears. 
    
-   Note: The Auto-Configuration Wizard is only going to open automatically the first time you run OBS on your system. To manually open it, go **Tools** > **Auto-Configuration Wizard** on the menu bar.
+   Note: To manually open the Auto-Configuration Wizard, go **Tools** > **Auto-Configuration Wizard** on the menu bar.
 
 5. Run the Auto-Configuration Wizard.
 
