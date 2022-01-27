@@ -1,5 +1,7 @@
 # KubeAcademy PowerPoint New Course Template
 
+<!-- KUBEACADEMY POWERPOINT NEW COURSE TEMPLATE -->
+
 The [KubeAcademy PowerPoint New Course Template](https://drive.google.com/file/d/1hD6-2eKwSTa1WJKSJq_mj3NRS3K_5HOD/view?usp=sharing) is where you add the content for your video course, including a video of yourself teaching the course, the course title, agenda, slide titles and instructional content.
 
 ---- 

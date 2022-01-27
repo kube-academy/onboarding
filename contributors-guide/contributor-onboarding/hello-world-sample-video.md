@@ -1,6 +1,9 @@
-# Create a "Hello World" Video Sample
+# Hello World Video Sample
 
 A **Hello World** video is a 1 - 3 minute sample video that you create and submit to the KubeAcademy before you start recording the new course. This is so the KubeAcademy team can ensure that OBS, your video and mic are working properly, and to assist you with any issues if they are not.
+
+<!-- HOW TO CREATE A HELLO WORLD VIDEO SAMPLE -->
+## How to Create a Hello World Video Sample
 
 To create a Hello World video sample with sound:
 
