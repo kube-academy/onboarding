@@ -26,5 +26,4 @@ To submit a content proposal,
 ----
 See also:
 
-[Contributor Onboarding](contributors-guide/contributor-onboarding/contributor-onboarding.md)
 [Report Content Defects](contributors-guide/report-content-defects.md)

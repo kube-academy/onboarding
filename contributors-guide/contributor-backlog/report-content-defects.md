@@ -15,5 +15,4 @@ To report a content issue:
 ----
 See also:
 
-[Ways to Contribute Content to KubeAcademy](contributors-guide/ways-to-contribute-content.md)
 [How to Submit a Content Proposal](contributors-guide/how-to-submit-a-content-proposal.md)

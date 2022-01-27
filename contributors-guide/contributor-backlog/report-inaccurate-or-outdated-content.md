@@ -9,6 +9,5 @@ KubeAcademy appreciates your taking the time to report content that is inaccurat
 ----
 See also:
 
-[Ways to Contribute Content to KubeAcademy](contributors-guide/ways-to-contribute-content.md)
 [How to Submit a Content Proposal](contributors-guide/how-to-submit-a-content-proposal.md)
 [How to Report Content Defects](contributor-backlog/report-content-defects.md)
