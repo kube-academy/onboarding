@@ -38,4 +38,11 @@ Once you remux a video from mkv to mp4, make sure to:
 3. Upload it to the appropriate location in your Google Drive. 
 4. Copy and paste a link to the mp4 file to the issue that you created in GitHub KubeAcademy  
  
+----
+See also:
 
+[Install OBS Studio](video-recording-setup/audio-device-setup.md)
+[Add Video Scenes to OBS Studio](video-recording-setup/add-video-scenes.md)
+[Set Up Audio Devices](zvideo-recording-setup/audio-device-setup.md)
+[Required Video Equipment](contributors-guide/video-recording-guide/required-video-equipment.md)
+[Video Lighting](contributors-guide/video-recording-guide/video-lighting.md)

@@ -1,14 +1,24 @@
 # README
 
-KubeAcademy from VMware welcomes content contributions from Kubernetes experts in the Cloud Native and Kubernetes communities. With Kubernetes technology always evolving, the need to continually provide learners with relevant, timely, defect-free content is essential.
-
-If you are interested in contributing content to KubeAcademy, you must have a [GitHub account](https://github.com/). This is because KubeAcademy uses two GitHub repositories to manage content. 
+KubeAcademy from VMware welcomes content contributions from Kubernetes experts in the Cloud Native and Kubernetes communities. With Kubernetes technology always advancing, so does the need for learners to have relevant, timely, defect-free content.
 
 ## About the Project
 
 KubeAcademy provides free educational material that focuses on exploring how Kuberentes solves business problems and how to successfully implement Kubernetes. KubeAcademy courses discuss open source projects and commercial products in the context of problems they solve, but they are not a substitute for education on Tanzu or any other commercial product. KubeAcademy content is free, and is not targeted at a specific distribution or implementation of Kubernetes. 
 
-### Table of Contents
+KubeAcademy uses two GitHub repositories to manage content. These include [KubeAcademy Onboarding](https://github.com/kube-academy/onboarding) and [KubeAcademy Content Backlog](https://github.com/kube-academy/backlog/issues).
+
+## Ways to Contribute Content at KubeAcademy
+
+To become a content contributor at KubeAcademy, create an issue in the [KubeAcademy backlog in GitHub]((https://github.com/kube-academy/backlog/issues) and express your interest there. A member of the KubeAcademy team will reach out to you with further instructions. In order to create an issue, you must have a [GitHub account](https://github.com/). 
+
+There are three ways to contribute content at KubeAcademy. You can:
+
+- [Report Content Bugs](https://github.com/kube-academy/onboarding/blob/main/templates/defect.md). Complete this form if there is a content bug that you would like to report. If possible, include the steps reproduce the issue.
+- [Enhance Existing Content](https://github.com/kube-academy/onboarding/blob/main/templates/update-course.md). Complete this form if you find content that requires an update, or if you believe the content is no longer valid, and should be archived.
+- [Submit a New Content Proposal][KubeAcademy Content Backlog](https://github.com/kube-academy/backlog/issues). This is where you go to start the content proposal process. For step-by-step instructions, see [How to Submit a Content Proposal](contributors-guide/how-to-submit-a-content-proposal.md).
+
+## Table of Contents
 
 - [KubeAcademy Onboarding](https://github.com/kube-academy/onboarding) 
 
@@ -27,10 +37,15 @@ KubeAcademy provides free educational material that focuses on exploring how Kub
    - [Report Inaccurate or Outdated Content](contributor-backlog/report-inaccurate-or-outdated-content.md)
    - [Submit a Content Proposal](contributor-backlog/how-to-submit-a-content-proposal.md)
 
-
 ----
 See Also:
 
 [Video Recording Setup](video-recording-setup)
+
+
+
+
+
+
 
 
