@@ -1,31 +1,30 @@
 # README
 
-KubeAcademy from VMware welcomes content contributions from Kubernetes experts in the Cloud Native and Kubernetes communities. With Kubernetes technology always evolving, the need to continually provide learners with relevant, timely and defect-free content is essential.
+KubeAcademy from VMware welcomes content contributions from Kubernetes experts in the Cloud Native and Kubernetes communities. With Kubernetes technology always evolving, the need to continually provide learners with relevant, timely, defect-free content is essential.
 
 If you are interested in contributing content to KubeAcademy, you must have a [GitHub account](https://github.com/). This is because KubeAcademy uses two GitHub repositories to manage content. 
 
-- [KubeAcademy Onboarding](https://github.com/kube-academy/onboarding). This repository is where you start the contributor onboarding process. It is where you find guides and instructions about access control, audio, lab best practices logistics, presentation, skills, and videos.  
+- [KubeAcademy Onboarding](https://github.com/kube-academy/onboarding) 
 
-- [KubeAcademy Content Backlog](https://github.com/kube-academy/backlog/issues). This repository is where you go to report [content bugs](https://github.com/kube-academy/onboarding/blob/main/templates/defect.md) or [outdated content][reporting outdated content](https://github.com/kube-academy/onboarding/blob/main/templates/update-course.md) at KubeAcademy. This is also where you go to [submit a content proposal](https://github.com/kube-academy/backlog/issues) for new content that you would like to create such as a lesson, course or lab.
+   - [KubeAcademy New Course Template](contributor-onboarding/kubeacademy-powerpoint-new-course-template.md)
+   - [Hello World Sample Video ](contributor-onboarding/hello-world-sample-video.md)
+   - [Video Recording Software](contributor-onboarding/video-recording-software.md)
+   - [Required Video Equipment](contributor-onboarding/required-video-equipment.md)
+   - [Video Lighting](contributor-onboarding/scriptwriting-terminology.md)
+   - [Scriptwriting Terminology](contributor-onboarding/scriptwriting-terminology.md)
+   - [KubeAcademy from VMware Brand](contributor-onboarding/kubeacademy-from-vmware-brand.md)
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#contributor-onboarding">Contributor Onboarding</a>
-      <ul>
-        <li><a href="#how to create a hello world video sample">Hello World Sample Video</a></li>
-        <li><a href="#kubeacademy-powerpoint-new-course-template.md">Kube Academy New Course Template</a></l>
-      </ul>
-   </ol>
+- [KubeAcademy Content Backlog](https://github.com/kube-academy/backlog/issues)
+
+   - [Ways to Contribute Content](contributor-backlog/ways-to-contribute-content.md)
+   - [Report Content Defects](contributor-backlog/report-content-defects.md) 
+   - [Report Inaccurate or Outdated Content](contributor-backlog/report-inaccurate-or-outdated-content.md)
+   - [Submit a Content Proposal](contributor-backlog/how-to-submit-a-content-proposal.md)
 
 
 ----
 See Also:
 
-[Contributor Onboarding](contributors-guide/contributor-onboarding)
-[KubeAcademy Content Backlog](contributors-guide/contributors-backlog)
-[Content Contribution Types](contributor's-guide/ways-to-contribute-content.md)
+[Video Recording Setup](video-recording-setup)
 
 
