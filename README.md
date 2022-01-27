@@ -15,6 +15,7 @@ The purpose of KubeAcademy is to provide free educational material that focuses 
 <summary>How do I dropdown?</summary>
 <br>
 This is how you dropdown.
+ [Contributor Onboarding](/contributors-guide/contributor-onboarding)
 </details>
 
 <!-- TABLE OF CONTENTS -->
