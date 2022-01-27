@@ -4,6 +4,12 @@ KubeAcademy from VMware welcomes content contributions from Kubernetes experts i
 
 If you are interested in contributing content to KubeAcademy, you must have a [GitHub account](https://github.com/). This is because KubeAcademy uses two GitHub repositories to manage content. 
 
+## About the Project
+
+KubeAcademy provides free educational material that focuses on exploring how Kuberentes solves business problems and how to successfully implement Kubernetes. KubeAcademy courses discuss open source projects and commercial products in the context of problems they solve, but they are not a substitute for education on Tanzu or any other commercial product. KubeAcademy content is free, and is not targeted at a specific distribution or implementation of Kubernetes. 
+
+### Table of Contents
+
 - [KubeAcademy Onboarding](https://github.com/kube-academy/onboarding) 
 
    - [KubeAcademy New Course Template](contributor-onboarding/kubeacademy-powerpoint-new-course-template.md)
