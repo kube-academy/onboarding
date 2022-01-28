@@ -16,3 +16,10 @@ See also:
 [Remux the Video](video-recording-setup/remux-the-video.md)
 [Required Video Equipment](contributors-guide/video-recording-guide/required-video-equipment.md)
 [Video Lighting](contributors-guide/video-recording-guide/video-lighting.md)
+
+----
+See also:
+
+----
+#### **[Go to README](README.md)** 
+

@@ -11,5 +11,9 @@ Note: The use of video lighting in your video is optional.
 ----
 See also:
 
-[Required Video Equipment](contributors-guide/video-recording-guide/required-video-equipment.md)
-[Hello World Sample Video](contributors-guide/contributor-onboarding/hello-world-sample-video.md)
+- [Required Video Equipment](contributors-guide/video-recording-guide/required-video-equipment.md)
+- [Video Recording Software](contributors-guide/contributor-onboarding/video-recording-software.md)
+- [Hello World Sample Video](contributors-guide/contributor-onboarding/hello-world-sample-video.md)
+
+----
+#### **[Go to README](README.md)** 

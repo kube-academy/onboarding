@@ -18,7 +18,7 @@ To submit a content proposal,
    - For Reference, provide a link that references student learning outcomes.
    - For Outline, enter an outline in the sequential order that you plan to teach each lesson or lab in the video. 
 
-4. Attach any files that you would like to include with the content proposal.
+4. Attach the files that you would like to include with the content proposal.
 5. Select **Submit new issue**.
 
    Your content proposal is added to the Kube-Academy Backlog. Once your course is approved, a member of the KubeAcademy team will contact you. Do not begin work on the new content until you receive approval.
@@ -26,4 +26,10 @@ To submit a content proposal,
 ----
 See also:
 
-[Report Content Defects](contributors-guide/report-content-defects.md)
+- [Report Content Defects](contributors-guide/report-content-defects.md)
+- [Report Inaccurate or Outdated Content](contributors-guide/contributor-backlog/report-inaccurate-or-outdated-content.md)
+
+----
+#### **[Go to README](README.md)** 
+
+

@@ -24,5 +24,10 @@ To create a Hello World video sample with sound:
 ----
 See also:
 
-[KubeAcademy Powerpoint New Course Template](contributors-guide/contributor-onboarding/kubeacademy-powerpoint-new-course-template.md)
-[Install OBS Studio](video-recording-setup/install-obs-studio.md)
+- [KubeAcademy Powerpoint New Course Template](contributors-guide/contributor-onboarding/kubeacademy-powerpoint-new-course-template.md)
+- [Scriptwriting Terminology](contributors-guide/contributor-onboarding/scriptwriting-terminology.md)
+- [KubeAcademy from VMware brand](contributors-guide/contributor-onboarding/kubeacademy-from-vmware-brand.md)
+- [Install OBS Studio](video-recording-setup/install-obs-studio.md)
+
+----
+#### **[Go to README](README.md)** 

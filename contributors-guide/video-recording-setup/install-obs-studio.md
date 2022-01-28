@@ -32,4 +32,11 @@ To get started, do the following:
 ----
 See also:
 
-[Setup Audio Devices](contributors-guide/video-recording-guide/audio-device-setup.md)
+- [Required Video Equipment](contributors-guide/contributor-onboarding/required-video-equipment.md)
+- [Setup Audio Devices](contributors-guide/video-recording-guide/audio-device-setup.md)
+- [Add Video Scenes](contributors-guide/video-recording-setup/add-video-scenes.md)
+- [KubeAcademy New Course Template](contributors-guide/contributor-onboarding/kubeacademy-powerpoint-new-course-template.md)
+- [Hello World Sample Video](contributors-guide/contributor-onboarding/hello-world-sample-video.md)
+
+----
+#### **[Go to README](README.md)** 

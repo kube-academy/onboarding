@@ -16,3 +16,6 @@ To report a content issue:
 See also:
 
 [How to Submit a Content Proposal](contributors-guide/how-to-submit-a-content-proposal.md)
+
+----
+#### **[Go to README](README.md)** 
