@@ -32,7 +32,6 @@ There are three ways to contribute content at KubeAcademy. You can:
 
 - [KubeAcademy Content Backlog](https://github.com/kube-academy/backlog/issues)
 
-   - [Ways to Contribute Content](contributor-backlog/ways-to-contribute-content.md)
    - [Report Content Defects](contributor-backlog/report-content-defects.md) 
    - [Report Inaccurate or Outdated Content](contributor-backlog/report-inaccurate-or-outdated-content.md)
    - [Submit a Content Proposal](contributor-backlog/how-to-submit-a-content-proposal.md)
