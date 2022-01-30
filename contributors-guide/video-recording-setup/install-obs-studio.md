@@ -39,4 +39,4 @@ See also:
 - [Hello World Sample Video](contributors-guide/contributor-onboarding/hello-world-sample-video.md)
 
 ----
-#### **[Go to README](README.md)** 
+#### **[Go to README](contributors-guide/README.md)** 

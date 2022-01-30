@@ -26,10 +26,10 @@ To submit a content proposal,
 ----
 See also:
 
-- [Report Content Defects](contributors-guide/report-content-defects.md)
+- [Report Content Defects](contributors-guide/contributor-backlog/report-content-defects.md)
 - [Report Inaccurate or Outdated Content](contributors-guide/contributor-backlog/report-inaccurate-or-outdated-content.md)
 
 ----
-#### **[Go to README](README.md)** 
+#### **[Go to README](contributors-guide/README.md)** 
 
 

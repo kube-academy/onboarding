@@ -13,7 +13,10 @@ There are two official KubeAcademy backgrounds. These include: [KubeAcademy Whit
 ----
 See also:
 
-
+- [Required Video Equipment](contributors-guide/contributor-onboarding/required-video-equipment.md)
+- [Scriptwriting Terminology](contributors-guide/contributor-onboarding/scriptwriting-terminology.md)
+- [Video Lighting](contributors-guide/contributor-onboarding/video-lighting.md)
+- [Video Recording Software](contributors-guide/contributor-onboarding/video-recording-software.md)
 
 ----
-#### **[Go to README](README.md)** 
+#### **[Go to README](contributors-guide/README.md)** 

@@ -17,4 +17,5 @@ See also:
 - [Scriptwriting Terminology](contributors-guide/contributor-onboarding/scriptwriting-terminology.md)
 
 ----
-#### **[Go to README](README.md)** 
+#### **[Go to README](contributors-guide/README.md)** 
+

@@ -11,15 +11,12 @@ If the Mic/Aux volume meter is not moving, or you would like to change the audio
 ----
 See also:
 
-[Install OBS Studio](video-recording-setup/audio-device-setup.md)
-[Add Video Scenes to OBS Studio](video-recording-setup/add-video-scenes.md)
-[Remux the Video](video-recording-setup/remux-the-video.md)
-[Required Video Equipment](contributors-guide/video-recording-guide/required-video-equipment.md)
-[Video Lighting](contributors-guide/video-recording-guide/video-lighting.md)
+- [Install OBS Studio](contributors-guide/video-recording-setup/install-obs-studio.md)
+- [Add Video Scenes to OBS Studio](contributors-guide/video-recording-setup/add-video-scenes.md)
+- [Remux the Video](contributors-guide/video-recording-setup/remux-the-video.md)
+- [Required Video Equipment](contributors-guide/video-recording-guide/required-video-equipment.md)
+- [Video Lighting](contributors-guide/video-recording-guide/video-lighting.md)
 
 ----
-See also:
-
-----
-#### **[Go to README](README.md)** 
+#### **[Go to README](contributors-guide/README.md)** 
 

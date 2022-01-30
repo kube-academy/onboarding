@@ -27,5 +27,6 @@ See also:
 - [Install OBS Studio](contributors-guide/video-recording-setup/install-obs-studio.md)
  
 ----
-#### **[Go to README](README.md)** 
+#### **[Go to README](contributors-guide/README.md)** 
+
 

@@ -37,11 +37,11 @@ To add the three video scenes to OBS:
 ----
 See also:
 
-- [Install OBS Studio](video-recording-setup/audio-device-setup.md)
-- [Set Up Audio Devices](zvideo-recording-setup/audio-device-setup.md)
-- [Remux the Video](video-recording-setup/remux-the-video.md)
+- [Install OBS Studio](contributors-guide/video-recording-setup/install-obs-studio.md)
+- [Set Up Audio Devices](contributors-guide/video-recording-setup/audio-device-setup.md)
+- [Remux the Video](contributors-guide/video-recording-setup/remux-the-video.md)
 - [Required Video Equipment](contributors-guide/video-recording-guide/required-video-equipment.md)
 - [Video Lighting](contributors-guide/video-recording-guide/video-lighting.md)
 
 ----
-#### **[Go to README](README.md)** 
+#### **[Go to README](contributors-guide/README.md)** 

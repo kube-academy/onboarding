@@ -38,11 +38,11 @@ Once you remux a video from mkv to mp4, make sure to:
 ----
 See also:
 
-- [Install OBS Studio](video-recording-setup/audio-device-setup.md)
-- [Add Video Scenes to OBS Studio](video-recording-setup/add-video-scenes.md)
-- [Set Up Audio Devices](zvideo-recording-setup/audio-device-setup.md)
+- [Install OBS Studio](contributors-guide/video-recording-setup/install-obs-studio.md)
+- [Add Video Scenes to OBS Studio](contributors-guide/video-recording-setup/add-video-scenes.md)
+- [Set Up Audio Devices](contributors-guide/video-recording-setup/audio-device-setup.md)
 - [Required Video Equipment](contributors-guide/video-recording-guide/required-video-equipment.md)
 - [Video Lighting](contributors-guide/video-recording-guide/video-lighting.md)
 
 ----
-#### **[Go to README](README.md)** 
+#### **[Go to README](contributors-guide/README.md)** 
