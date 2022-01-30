@@ -20,8 +20,7 @@ There are three ways to contribute content at KubeAcademy. You can:
 
 ## Table of Contents
 
-- [KubeAcademy Onboarding](https://github.com/kube-academy/onboarding) 
-
+- [KubeAcademy Onboarding](contributors-guide/contributor-onboarding) 
    - [KubeAcademy New Course Template](contributor-onboarding/kubeacademy-powerpoint-new-course-template.md)
    - [Hello World Sample Video ](contributor-onboarding/hello-world-sample-video.md)
    - [Video Recording Software](contributor-onboarding/video-recording-software.md)
@@ -30,14 +29,12 @@ There are three ways to contribute content at KubeAcademy. You can:
    - [Scriptwriting Terminology](contributor-onboarding/scriptwriting-terminology.md)
    - [KubeAcademy from VMware Brand](contributor-onboarding/kubeacademy-from-vmware-brand.md)
 
-- [KubeAcademy Content Backlog](https://github.com/kube-academy/backlog/issues)
-
+- [KubeAcademy Content Backlog](contributors-guide/contributor-backlog)
    - [Report Content Defects](contributor-backlog/report-content-defects.md) 
    - [Report Inaccurate or Outdated Content](contributor-backlog/report-inaccurate-or-outdated-content.md)
    - [Submit a Content Proposal](contributor-backlog/how-to-submit-a-content-proposal.md)
 
-- [Video Recording Software Installation and Setup](video-recording-setup)
-
+- [Video Recording Software Installation and Setup](contributors-guide/video-recording-setup)
    - [Install OBS Studio](video-recording-setup/install-obs-studio.md)
    - [Audio Device Setup](video-recording-setup/audio-device-setup.md)
    - [Add Video Scenes](video-recording-setup/add-video-scenes.md)
