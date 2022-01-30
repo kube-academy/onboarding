@@ -8,6 +8,10 @@ KubeAcademy provides free educational material that focuses on exploring how Kub
 
 KubeAcademy uses two GitHub repositories to manage content. These include [KubeAcademy Onboarding](https://github.com/kube-academy/onboarding) and [KubeAcademy Content Backlog](https://github.com/kube-academy/backlog/issues).
 
+## Mission
+
+The KubeAcademy mission is to lower the entry barrier for anyone who wants to learn Kubernetes by providing free Kubernetes video courses and lab workshops from experienced practitioners. 
+
 ## Ways to Contribute Content at KubeAcademy
 
 To become a content contributor at KubeAcademy, create an issue in the [KubeAcademy backlog in GitHub](https://github.com/kube-academy/backlog/issues) and express your interest there. A member of the KubeAcademy team will reach out to you with further instructions. In order to create an issue, you must have a [GitHub account](https://github.com/). 

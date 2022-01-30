@@ -25,12 +25,22 @@ There are three ways to contribute content at KubeAcademy. You can:
 
 ## Table of Contents
 
-- [KubeAcademy Onboarding](https://github.com/kube-academy/onboarding) 
-
+- [KubeAcademy Onboarding](contributors-guide/contributor-onboarding) 
    - [KubeAcademy New Course Template](contributor-onboarding/kubeacademy-powerpoint-new-course-template.md)
-   - [Hello World Sample Video ](contributors-guide/contributor-onboarding/hello-world-sample-video.md)
-   - [Video Recording Software](contributors-guide/contributor-onboarding/video-recording-software.md)
-   - [Required Video Equipment](contributors-guide/contributor-onboarding/required-video-equipment.md)
+   - [Hello World Sample Video ](contributor-onboarding/hello-world-sample-video.md)
+   - [Video Recording Software](contributor-onboarding/video-recording-software.md)
+   - [Required Video Equipment](contributor-onboarding/required-video-equipment.md)
    - [Video Lighting](contributor-onboarding/scriptwriting-terminology.md)
-   - [Scriptwriting Terminology](contributors-guide/contributor-onboarding/scriptwriting-terminology.md)
-   - [KubeAcademy from VMware Brand](contributors-guide/contributor-onboarding/kubeacademy-from-vmware-brand.md)
+   - [Scriptwriting Terminology](contributor-onboarding/scriptwriting-terminology.md)
+   - [KubeAcademy from VMware Brand](contributor-onboarding/kubeacademy-from-vmware-brand.md)
+
+- [KubeAcademy Content Backlog](contributors-guide/contributor-backlog)
+   - [Report Content Defects](contributor-backlog/report-content-defects.md) 
+   - [Report Inaccurate or Outdated Content](contributor-backlog/report-inaccurate-or-outdated-content.md)
+   - [Submit a Content Proposal](contributor-backlog/how-to-submit-a-content-proposal.md)
+
+- [Video Recording Software Installation and Setup](contributors-guide/video-recording-setup)
+   - [Install OBS Studio](video-recording-setup/install-obs-studio.md)
+   - [Audio Device Setup](video-recording-setup/audio-device-setup.md)
+   - [Add Video Scenes](video-recording-setup/add-video-scenes.md)
+   - [Remux the Video](video-recording-setup/remux-the-video.md)

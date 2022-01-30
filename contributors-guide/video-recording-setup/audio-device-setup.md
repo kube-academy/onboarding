@@ -14,8 +14,8 @@ See also:
 - [Install OBS Studio](contributors-guide/video-recording-setup/install-obs-studio.md)
 - [Add Video Scenes to OBS Studio](contributors-guide/video-recording-setup/add-video-scenes.md)
 - [Remux the Video](contributors-guide/video-recording-setup/remux-the-video.md)
-- [Required Video Equipment](contributors-guide/video-recording-guide/required-video-equipment.md)
-- [Video Lighting](contributors-guide/video-recording-guide/video-lighting.md)
+- [Required Video Equipment](contributors-guide/contributor-onboarding//required-video-equipment.md)
+- [Video Lighting](contributors-guide/contributor-onboarding/video-lighting.md)
 
 ----
 #### **[Go to README](contributors-guide/README.md)** 
