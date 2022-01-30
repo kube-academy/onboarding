@@ -12,10 +12,10 @@ To record a video course for KubeAcademy, make sure that you have:
 ----
 See also:
 
-- [Video Lighting](contributors-guide/contributor-onboarding/video-lighting.md)
-- [Video Recording Software](contributors-guide/contributor-onboarding/video-recording-software.md)
-- [Scriptwriting Terminology](contributors-guide/contributor-onboarding/scriptwriting-terminology.md)
+- [Video Lighting](video-lighting.md)
+- [Video Recording Software](video-recording-software.md)
+- [Scriptwriting Terminology](scriptwriting-terminology.md)
 
 ----
-#### **[Go to README](contributors-guide/README.md)** 
+#### **[Go to README](../README.md)** 
 

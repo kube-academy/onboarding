@@ -11,9 +11,9 @@ To notify KubeAcademy of a content discrepancy, do the following:
 ----
 See also:
 
-- [Submit a Content Proposal](contributors-guide/how-to-submit-a-content-proposal.md)
-- [Report Content Defects](contributor-backlog/report-content-defects.md)
+- [Submit a Content Proposal](how-to-submit-a-content-proposal.md)
+- [Report Content Defects](report-content-defects.md)
 
 ----
-#### **[Go to README](contributors-guide/README.md)** 
+#### **[Go to README](../README.md)** 
 

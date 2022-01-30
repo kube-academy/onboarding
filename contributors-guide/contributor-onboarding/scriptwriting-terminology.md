@@ -21,12 +21,12 @@ When writing a script, consider the following do's and do not's.
 ----
 See also:
 
-- [KubeAcademy New Course Template](contributors-guide/contributor-onboarding/kubeacademy-powerpoint-new-course-template.md)
-- [Hello World Sample Video](contributors-guide/contributor-onboarding/hello-world-sample-video.md)
-- [KubeAcademy from VMware brand](contributors-guide/contributor-onboarding/kubeacademy-from-vmware-brand.md)
-- [Install OBS Studio](contributors-guide/video-recording-setup/install-obs-studio.md)
+- [KubeAcademy New Course Template](kubeacademy-powerpoint-new-course-template.md)
+- [Hello World Sample Video](hello-world-sample-video.md)
+- [KubeAcademy from VMware Brand](kubeacademy-from-vmware-brand.md)
+- [Install OBS Studio](../video-recording-setup/install-obs-studio.md)
  
 ----
-#### **[Go to README](contributors-guide/README.md)** 
+#### **[Go to README](../README.md)** 
 
 

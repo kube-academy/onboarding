@@ -11,9 +11,9 @@ To report a content defect:
 ----
 See also:
 
-- [How to Submit a Content Proposal](contributors-guide/contributor-backlog/how-to-submit-a-content-proposal.md)
-- [Report Content Bugs](contributors-guide/contributor-backlog/report-inaccurate-or-outdated-content.md)
+- [How to Submit a Content Proposal](how-to-submit-a-content-proposal.md)
+- [Report Content Bugs](report-inaccurate-or-outdated-content.md)
 
 ----
-#### **[Go to README](contributors-guide/README.md)** 
+#### **[Go to README](../README.md)** 
 
