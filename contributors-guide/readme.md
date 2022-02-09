@@ -32,6 +32,7 @@ There are three ways to contribute content at KubeAcademy. You can:
    - [Video Lighting](contributor-onboarding/scriptwriting-terminology.md)
    - [Scriptwriting Terminology](contributor-onboarding/scriptwriting-terminology.md)
    - [KubeAcademy from VMware Brand](contributor-onboarding/kubeacademy-from-vmware-brand.md)
+   - [Course and Lesson Meta Tags](contributor-onboarding/course-and-lesson-meta-tags.md)
 
 -  **KubeAcademy Content Backlog**
    - [Report Content Defects](contributor-backlog/report-content-defects.md) 

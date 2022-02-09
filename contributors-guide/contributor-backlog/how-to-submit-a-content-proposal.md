@@ -9,7 +9,7 @@ To submit a content proposal,
 2. Select **Get started** at the top of the page to open the KubeAcademy Content Proposal. 
 3. Complete the proposal as follows:
 
-   - In the Proposed Content Title, enter a title for the content.
+   - For the Proposed Content Title, enter a title for the content.
    - For Target, identify the type of content you want to develop by selecting the corresponding course or lab option.
    - For Course Description, provide two or three sentences that describe the content.
    - For Prerequsites, provide any prerequisites from a KubeAcademy course or lab.
@@ -28,8 +28,9 @@ See also:
 
 - [Report Content Defects](report-content-defects.md)
 - [Report Inaccurate or Outdated Content](report-inaccurate-or-outdated-content.md)
+- 
 
 ----
-#### **[Go to README](../README.md)** 
+#### **[Back to README](../README.md)** 
 
 

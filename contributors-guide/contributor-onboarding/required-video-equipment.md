@@ -17,5 +17,5 @@ See also:
 - [Scriptwriting Terminology](scriptwriting-terminology.md)
 
 ----
-#### **[Go to README](../README.md)** 
+#### **[Back to README](../README.md)** 
 

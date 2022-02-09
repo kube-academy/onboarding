@@ -16,4 +16,4 @@ See also:
 - [Hello World Sample Video](hello-world-sample-video.md)
 
 ----
-#### **[Go to README](../README.md)** 
+#### **[Back to README](../README.md)** 

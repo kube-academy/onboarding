@@ -44,4 +44,4 @@ See also:
 - [Video Lighting](../contributor-onboarding/video-lighting.md)
 
 ----
-#### **[Go to README](../README.md)** 
+#### **[Back to README](../README.md)** 

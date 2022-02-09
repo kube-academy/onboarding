@@ -30,4 +30,4 @@ See also:
 - [Install OBS Studio](../video-recording-setup/install-obs-studio.md)
 
 ----
-#### **[Go to README](../README.md)** 
+#### **[Back to README](../README.md)** 

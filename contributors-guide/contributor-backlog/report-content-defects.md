@@ -15,5 +15,5 @@ See also:
 - [Report Content Bugs](report-inaccurate-or-outdated-content.md)
 
 ----
-#### **[Go to README](../README.md)** 
+#### **[Back to README](../README.md)** 
 

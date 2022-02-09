@@ -16,7 +16,7 @@ When writing a script, consider the following do's and do not's.
 - **Do not** 
    - Use passive voice verbs in your script.
    - Use terminology that is jargon and slang.
-   - Use charged terminology. This includes words with shock value that demean, hurt, imply negative judgment.
+   - Use charged terminology. This includes words with shock value that demean, hurt, or imply negative judgment.
 
 ----
 See also:
@@ -27,6 +27,6 @@ See also:
 - [Install OBS Studio](../video-recording-setup/install-obs-studio.md)
  
 ----
-#### **[Go to README](../README.md)** 
+#### **[Back to README](../README.md)** 
 
 

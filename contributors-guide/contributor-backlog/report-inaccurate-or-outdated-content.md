@@ -15,5 +15,5 @@ See also:
 - [Report Content Defects](report-content-defects.md)
 
 ----
-#### **[Go to README](../README.md)** 
+#### **[Back to README](../README.md)** 
 

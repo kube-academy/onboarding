@@ -11,4 +11,4 @@ See also:
 - [Required Video Equipment](required-video-equipment.md)
 
 ----
-#### **[Go to README](../README.md)** 
+#### **[Back to README](../README.md)** 

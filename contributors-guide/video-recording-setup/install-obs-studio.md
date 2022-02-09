@@ -19,7 +19,7 @@ To get started, do the following:
 
    The Auto-Configuration Wizard appears. 
    
-   Note: To manually open the Auto-Configuration Wizard, go **Tools** > **Auto-Configuration Wizard** on the menu bar.
+   Note: To manually open the Auto-Configuration Wizard from the menu bar go **Tools** > **Auto-Configuration Wizard**.
 
 5. Run the Auto-Configuration Wizard.
 
@@ -27,7 +27,7 @@ To get started, do the following:
 
 6. From the Auto-Configuration-Wizard, select **Apply Settings** once testing is complete. 
 
-   Note: To manually change the default settings, go **OBS** > **Preferences** on the menu bar.
+   Note: To manually change the default settings from the menu bar go **OBS** > **Preferences**.
 
 ----
 See also:
@@ -39,4 +39,4 @@ See also:
 - [Hello World Sample Video](../contributor-onboarding/hello-world-sample-video.md)
 
 ----
-#### **[Go to README](../README.md)** 
+#### **[Back to README](../README.md)** 
