@@ -4,7 +4,7 @@ Open Broadcaster Software Studio is a free and open source software for you to u
 
 To get started, do the following:
 
-1. Go to [Open Broadcaster Software (OBS)](https://obsproject.com/).
+1. From the web, go to [Open Broadcaster Software (OBS)](https://obsproject.com/).
 2. Select the operating environment where you want to install OBS. There are three options: Windows, macOS 10.13+, and Linux.
 
    The OBS installer appears in the bottom, left corner of the page.

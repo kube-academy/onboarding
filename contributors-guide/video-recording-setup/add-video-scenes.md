@@ -22,15 +22,15 @@ To add the three video scenes to OBS:
 
    A navigation panel opens. 
 
-3. Go **GitHub** > **Onboarding** > **Recording** > **obs-kubeacademy-scenes.json**, then select **Open** at the bottom of the panel.
+3. From GitHub, go **Onboarding** > **Recording** > **obs-kubeacademy-scenes.json**. Select **Open** at the bottom of the panel.
 
-   The three scenes display in the Scenes panel along with their corresponding sources in the Sources panel at the bottom of the OBS page. 
+   The three scenes display in the Scenes panel along with their corresponding sources displaying in the Sources panel at the bottom of the OBS page. 
 
    ![Scenes and Sources panels](./images/scenes-and-sources-panel.png)
    
 4. From the OBS menu bar, go **OBS** > **Preferences** > **Video**. 
 
-5. From the Settings panel, ensure that the Base (Canvas) Resolution value and the Output (Scaled Resolution and Output resolution value are both set to **1920x1080**. Select **OK**.
+5. From the Settings panel, ensure that the Base (Canvas) Resolution value and the Output (Scaled) Resolution value are both set to **1920x1080**. Select **OK**.
 
    ![video settings](./images/video-settings-panel.png)
 

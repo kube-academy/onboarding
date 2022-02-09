@@ -2,7 +2,7 @@
 
 To record a video course for KubeAcademy, make sure that you have:
 
-- Video equipment
+- Video Equipment
    - Camera. Use a 1080p webcam or camera, at a minimum. For example, Logitech c920s.
    - Microphone. Use the one with your webcam or add an external Mic such as xxxxx.
    - Video Lighting (*optional*). Consider a one light setup, two light setup, or three point light setup.
