@@ -12,7 +12,7 @@ KubeAcademy uses two GitHub repositories to manage content. These include [KubeA
 
 The KubeAcademy mission is to lower the entry barrier for anyone who wants to learn Kubernetes by providing free Kubernetes video courses and lab workshops from experienced practitioners. 
 
-## Ways to Contribute Content at KubeAcademy
+## Content Contributions
 
 To become a content contributor at KubeAcademy, create an issue in the [KubeAcademy backlog in GitHub](https://github.com/kube-academy/backlog/issues) and express your interest there. A member of the KubeAcademy team will reach out to you with further instructions. In order to create an issue, you must have a [GitHub account](https://github.com/). 
 
@@ -24,7 +24,12 @@ There are three ways to contribute content at KubeAcademy. You can:
 
 ## Table of Contents
 
--  **KubeAcademy Onboarding** 
+**Ways to Contribute Content**
+   - [Report Content Defects](contributor-backlog/report-content-defects.md) 
+   - [Report Inaccurate or Outdated Content](contributor-backlog/report-inaccurate-or-outdated-content.md)
+   - [Submit a Content Proposal](contributor-backlog/how-to-submit-a-content-proposal.md)
+
+**Instructor Onboarding** 
    - [KubeAcademy New Course Template](contributor-onboarding/kubeacademy-powerpoint-new-course-template.md)
    - [Hello World Sample Video ](contributor-onboarding/hello-world-sample-video.md)
    - [Video Recording Software](contributor-onboarding/video-recording-software.md)
@@ -33,16 +38,12 @@ There are three ways to contribute content at KubeAcademy. You can:
    - [Scriptwriting Terminology](contributor-onboarding/scriptwriting-terminology.md)
    - [KubeAcademy from VMware Brand](contributor-onboarding/kubeacademy-from-vmware-brand.md)
  
-
--  **KubeAcademy Content Backlog**
-   - [Report Content Defects](contributor-backlog/report-content-defects.md) 
-   - [Report Inaccurate or Outdated Content](contributor-backlog/report-inaccurate-or-outdated-content.md)
-   - [Submit a Content Proposal](contributor-backlog/how-to-submit-a-content-proposal.md)
-   - [Course and Lesson Meta Tags](contributor-backlog/course-and-lesson-meta-tags.md)
-   - [Instructor Biography](contributor-backlog/instructor-bio.md)
-
 -  **Video Recording Software Installation and Setup**
    - [Install OBS Studio](video-recording-setup/install-obs-studio.md)
    - [Audio Device Setup](video-recording-setup/audio-device-setup.md)
    - [Add Video Scenes](video-recording-setup/add-video-scenes.md)
    - [Remux the Video](video-recording-setup/remux-the-video.md)
+
+- **Meta Tags and Instructor Bio**
+   - [Course and Lesson Meta Tags](contributor-backlog/course-and-lesson-meta-tags.md)
+   - [Instructor Biography](contributor-backlog/instructor-bio.md)
