@@ -38,12 +38,12 @@ There are three ways to contribute content at KubeAcademy. You can:
    - [Scriptwriting Terminology](contributor-onboarding/scriptwriting-terminology.md)
    - [KubeAcademy from VMware Brand](contributor-onboarding/kubeacademy-from-vmware-brand.md)
  
--  **Video Recording Software Installation and Setup**
+**Video Recording Software Installation and Setup**
    - [Install OBS Studio](video-recording-setup/install-obs-studio.md)
    - [Audio Device Setup](video-recording-setup/audio-device-setup.md)
    - [Add Video Scenes](video-recording-setup/add-video-scenes.md)
    - [Remux the Video](video-recording-setup/remux-the-video.md)
 
-- **Meta Tags and Instructor Bio**
+**Meta Tags and Instructor Bio**
    - [Course and Lesson Meta Tags](contributor-backlog/course-and-lesson-meta-tags.md)
    - [Instructor Biography](contributor-backlog/instructor-bio.md)
