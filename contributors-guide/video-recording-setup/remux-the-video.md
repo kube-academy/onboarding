@@ -30,12 +30,19 @@ Once you remux a video from mkv to mp4, make sure to:
 - Upload the mp4 video to your Google drive.
 - Attach a link to the Google drive to your GitHub issue.
 
-1. Go **File** > **Show Recordings** to view videos from your file browser. This includes the original mkv file and the new mp4 file of your video.  
-
-  ![recordings menu](images/recordings-menu.png)
-
-2. Rename to the mp4 file to include the course and lesson names.
+1. From the menu bar, go **File** > **Show Recordings** to view videos from your file browser. This includes the original mkv file and the new mp4 file of your video.  
+2. Rename the mp4 file to include the course and lesson names.
 3. Upload it to the appropriate location in your Google Drive. 
-4. Copy and paste a link to the mp4 file to the issue that you created in GitHub KubeAcademy  
+4. Copy and paste a link to the mp4 file to the issue that you created in the [GitHub KubeAcademy Issues Backlog](https://github.com/kube-academy/backlog/issues).  
  
+----
+See also:
 
+- [Install OBS Studio](install-obs-studio.md)
+- [Add Video Scenes to OBS Studio](add-video-scenes.md)
+- [Set Up Audio Devices](audio-device-setup.md)
+- [Required Video Equipment](../contributor-onboarding/required-video-equipment.md)
+- [Video Lighting](../contributor-onboarding/video-lighting.md)
+
+----
+#### **[Back to README](../README.md)** 

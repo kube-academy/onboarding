@@ -4,7 +4,7 @@ Open Broadcaster Software Studio is a free and open source software for you to u
 
 To get started, do the following:
 
-1. Go to [Open Broadcaster Software (OBS)](https://obsproject.com/).
+1. From the web, go to [Open Broadcaster Software (OBS)](https://obsproject.com/).
 2. Select the operating environment where you want to install OBS. There are three options: Windows, macOS 10.13+, and Linux.
 
    The OBS installer appears in the bottom, left corner of the page.
@@ -19,7 +19,7 @@ To get started, do the following:
 
    The Auto-Configuration Wizard appears. 
    
-   Note: To manually open the Auto-Configuration Wizard, go **Tools** > **Auto-Configuration Wizard** on the menu bar.
+   Note: To manually open the Auto-Configuration Wizard from the menu bar go **Tools** > **Auto-Configuration Wizard**.
 
 5. Run the Auto-Configuration Wizard.
 
@@ -27,9 +27,16 @@ To get started, do the following:
 
 6. From the Auto-Configuration-Wizard, select **Apply Settings** once testing is complete. 
 
-   Note: To manually change the default settings, go **OBS** > **Preferences** on the menu bar.
+   Note: To manually change the default settings from the menu bar go **OBS** > **Preferences**.
 
 ----
 See also:
 
-[Setup Audio Devices](contributors-guide/video-recording-guide/audio-device-setup.md)
+- [Required Video Equipment](../contributor-onboarding/required-video-equipment.md)
+- [Setup Audio Devices](audio-device-setup.md)
+- [Add Video Scenes](add-video-scenes.md)
+- [KubeAcademy New Course Template](../contributor-onboarding/kubeacademy-powerpoint-new-course-template.md)
+- [Hello World Sample Video](../contributor-onboarding/hello-world-sample-video.md)
+
+----
+#### **[Back to README](../README.md)** 
